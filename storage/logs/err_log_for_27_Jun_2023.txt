@@ -1,0 +1,7 @@
+[27-Jun-2023 10:16:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[27-Jun-2023 14:00:44 Asia/Calcutta] PHP Warning:  include(common/top-menus.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\app\hr\payroll\index.php on line 49
+[27-Jun-2023 14:00:44 Asia/Calcutta] PHP Warning:  include(): Failed opening 'common/top-menus.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\app\hr\payroll\index.php on line 49

@@ -1,0 +1,4 @@
+[08-Sep-2023 12:06:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\apna-real-estate\app\users\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\users\index.php on line 6

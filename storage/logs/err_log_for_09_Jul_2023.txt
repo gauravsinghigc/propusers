@@ -1,0 +1,25 @@
+[09-Jul-2023 08:53:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[09-Jul-2023 08:53:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[09-Jul-2023 08:53:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[09-Jul-2023 16:27:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[09-Jul-2023 16:33:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php:2
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include()
+#1 C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\receipt.php(26): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php on line 2
+[09-Jul-2023 19:53:51 Asia/Calcutta] PHP Warning:  Undefined array key "payrolls_id" in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\receipt.php on line 20
+[09-Jul-2023 21:26:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\configs\index.php(32): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[09-Jul-2023 22:02:01 Asia/Calcutta] PHP Warning:  Undefined variable $GetPayrollId in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\receipt.php on line 196

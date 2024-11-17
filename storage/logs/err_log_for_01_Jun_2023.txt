@@ -1,0 +1,31 @@
+[01-Jun-2023 19:27:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 18
+[01-Jun-2023 19:34:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 18
+[01-Jun-2023 19:52:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 18
+[01-Jun-2023 20:16:47 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND MONTH(UserDateOfBirth) = ?' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\include\app\footer.php(71): _DB_COMMAND_('SELECT * FROM u...', Array, true)
+#3 C:\xampp\htdocs\roofnassets\app\users\details\index.php(61): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[01-Jun-2023 20:17:05 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? AND MONTH(UserDateOfBirth) = ?' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT * FROM u...')
+#2 C:\xampp\htdocs\roofnassets\include\app\footer.php(71): _DB_COMMAND_('SELECT * FROM u...', Array, true)
+#3 C:\xampp\htdocs\roofnassets\app\index.php(103): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114

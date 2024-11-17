@@ -1,0 +1,154 @@
+[23-Sep-2023 09:49:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\attandance\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[23-Sep-2023 09:50:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php(39): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[23-Sep-2023 09:51:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\attandance\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[23-Sep-2023 09:52:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\attandance\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[23-Sep-2023 09:54:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php(39): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[23-Sep-2023 09:56:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\payroll\index.php(39): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[23-Sep-2023 10:13:18 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:18 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:18 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:18 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:19 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:20 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:20 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:20 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:20 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:20 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:20 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:20 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:20 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:21 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:22 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:22 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:22 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:22 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:22 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:22 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:22 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:22 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:22 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:22 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:23 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:24 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 10:13:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 443
+[23-Sep-2023 10:13:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in C:\xampp\htdocs\apna-real-estate\app\payroll\reports\index.php on line 447
+[23-Sep-2023 11:09:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[23-Sep-2023 11:09:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[23-Sep-2023 11:09:28 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[23-Sep-2023 11:09:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[23-Sep-2023 11:11:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[23-Sep-2023 11:11:46 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6

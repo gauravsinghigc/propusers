@@ -1,0 +1,46 @@
+[19-May-2023 09:46:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\header.php on line 18
+[19-May-2023 10:37:19 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\app\leads\index.php on line 182
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[19-May-2023 10:59:33 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type int in C:\xampp\htdocs\roofnassets\include\forms\AddNewBookings.php on line 83
+[19-May-2023 11:00:30 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type int in C:\xampp\htdocs\roofnassets\include\forms\AddNewBookings.php on line 83

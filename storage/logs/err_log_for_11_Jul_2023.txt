@@ -1,0 +1,150 @@
+[11-Jul-2023 10:03:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[11-Jul-2023 10:03:45 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:03:45 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:18:46 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:18:46 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:23:37 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:23:37 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:25:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[11-Jul-2023 10:25:17 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:25:17 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:28:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[11-Jul-2023 10:28:41 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:28:41 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:28:48 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:28:48 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:31:29 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:31:29 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:31:36 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:31:36 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:31:43 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:31:43 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:31:45 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:31:45 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:33:19 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:33:19 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:33:22 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:33:22 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:33:25 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:33:25 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:33:35 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:33:35 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:33:37 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:33:37 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:33:42 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:33:42 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:35:55 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:35:55 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:36:06 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:36:06 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:36:09 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:36:09 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:36:12 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:36:12 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:36:17 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:36:17 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:38:03 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:38:19 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:38:19 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:38:28 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:38:28 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:40:51 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:40:51 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:42:44 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:42:44 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:43:38 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:43:38 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:43:47 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:43:47 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:54:35 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:54:35 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:54:44 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:54:44 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:54:48 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:54:48 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:54:56 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:54:56 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 10:55:04 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 10:55:04 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:14:45 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:14:45 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:15:51 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:15:51 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:17:40 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:17:40 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:18:48 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:18:48 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:20:41 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:20:41 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:22:04 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:22:04 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:23:10 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:23:10 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:24:02 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:24:02 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:24:19 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:24:19 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:24:32 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[11-Jul-2023 11:24:32 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[11-Jul-2023 11:25:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[11-Jul-2023 11:26:30 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\forms\Add-Feedback.php on line 1
+[11-Jul-2023 11:30:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserFullName in C:\xampp\htdocs\roofnassets\include\alerts\birthday-list.php on line 24
+[11-Jul-2023 11:30:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserFullName in C:\xampp\htdocs\roofnassets\include\alerts\birthday-list.php on line 24
+[11-Jul-2023 11:32:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserFullName in C:\xampp\htdocs\roofnassets\include\alerts\birthday-list.php on line 24
+[11-Jul-2023 11:33:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserFullName in C:\xampp\htdocs\roofnassets\include\alerts\birthday-list.php on line 24
+[11-Jul-2023 11:35:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserFullName in C:\xampp\htdocs\roofnassets\include\alerts\birthday-list.php on line 24
+[11-Jul-2023 11:36:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserFullName in C:\xampp\htdocs\roofnassets\include\alerts\birthday-list.php on line 24
+[11-Jul-2023 12:28:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[11-Jul-2023 12:32:19 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in C:\xampp\htdocs\roofnassets\app\leads\details\index.php:72
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\details\index.php on line 72
+[11-Jul-2023 12:34:49 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in C:\xampp\htdocs\roofnassets\app\leads\details\index.php:72
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\details\index.php on line 72
+[11-Jul-2023 12:36:01 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\forms\Add-Feedback.php on line 1
+[11-Jul-2023 12:36:08 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\forms\Add-Feedback.php on line 1
+[11-Jul-2023 13:40:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[11-Jul-2023 14:14:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[11-Jul-2023 14:21:24 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[11-Jul-2023 14:21:24 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[11-Jul-2023 17:09:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[11-Jul-2023 17:55:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[11-Jul-2023 17:57:49 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[11-Jul-2023 17:58:30 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5

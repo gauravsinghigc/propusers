@@ -1,0 +1,7 @@
+[20-Sep-2023 11:22:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[20-Sep-2023 11:29:08 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apna-real-estate\app\leads\index.php on line 181
+[20-Sep-2023 11:30:34 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\apna-real-estate\app\leads\index.php on line 181

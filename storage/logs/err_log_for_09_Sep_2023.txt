@@ -1,0 +1,191 @@
+[09-Sep-2023 11:28:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\apna-real-estate\app\users\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\users\index.php on line 6
+[09-Sep-2023 13:00:17 Asia/Calcutta] PHP Warning:  include(../../include/app/export-header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 27
+[09-Sep-2023 13:00:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/app/export-header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 27
+[09-Sep-2023 13:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $ExportRefid in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 28
+[09-Sep-2023 13:00:17 Asia/Calcutta] PHP Warning:  include(../../include/app/export-footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 58
+[09-Sep-2023 13:00:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../include/app/export-footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 58
+[09-Sep-2023 13:00:17 Asia/Calcutta] PHP Warning:  require(../../assets/footer_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 63
+[09-Sep-2023 13:00:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required '../../assets/footer_files.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\activities\export.php:63
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 63
+[09-Sep-2023 13:01:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\export\export-header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\activities\export.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\export\export-header.php on line 10
+[09-Sep-2023 13:01:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\export\export-header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\activities\export.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\export\export-header.php on line 10
+[09-Sep-2023 13:04:26 Asia/Calcutta] PHP Warning:  require(../../hanlder/AuthController/AuthAccessController.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 5
+[09-Sep-2023 13:04:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required '../../hanlder/AuthController/AuthAccessController.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\activities\export.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 5
+[09-Sep-2023 13:04:38 Asia/Calcutta] PHP Warning:  require(../../assets/footer_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 64
+[09-Sep-2023 13:04:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required '../../assets/footer_files.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\activities\export.php:64
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\activities\export.php on line 64
+[09-Sep-2023 13:06:06 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[09-Sep-2023 13:18:38 Asia/Calcutta] PHP Warning:  Undefined array key "UserLeaveFrom" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\LeaveController.php on line 22
+[09-Sep-2023 13:18:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 23
+[09-Sep-2023 18:20:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 18:20:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 19:22:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 19:26:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\apna-real-estate\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\leads\index.php(14): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\leads\sections\pageHeader.php on line 37
+[09-Sep-2023 19:32:59 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[09-Sep-2023 19:33:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 19:33:45 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[09-Sep-2023 19:35:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 19:35:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in C:\xampp\htdocs\apna-real-estate\include\forms\Update-OD-Request.php on line 51
+[09-Sep-2023 19:35:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in C:\xampp\htdocs\apna-real-estate\include\forms\Update-OD-Request.php on line 51
+[09-Sep-2023 19:35:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in C:\xampp\htdocs\apna-real-estate\include\forms\Update-OD-Request.php on line 51
+[09-Sep-2023 19:36:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in C:\xampp\htdocs\apna-real-estate\include\forms\Update-OD-Request.php on line 51
+[09-Sep-2023 19:36:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in C:\xampp\htdocs\apna-real-estate\include\forms\Update-OD-Request.php on line 51
+[09-Sep-2023 19:36:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in C:\xampp\htdocs\apna-real-estate\include\forms\Update-OD-Request.php on line 51
+[09-Sep-2023 20:04:46 Asia/Calcutta] PHP Warning:  Undefined array key "status" in C:\xampp\htdocs\apna-real-estate\app\bookings\sections\user-bookings.php on line 73
+[09-Sep-2023 20:04:46 Asia/Calcutta] PHP Warning:  Undefined array key "status" in C:\xampp\htdocs\apna-real-estate\app\bookings\sections\user-bookings.php on line 89
+[09-Sep-2023 20:14:44 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and RegDirectSale='7' ORDER BY RegistrationId DESC' at line 1 in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\apna-real-estate\app\bookings\sections\user-bookings.php(95): TOTAL('SELECT * FROM r...')
+#2 C:\xampp\htdocs\apna-real-estate\app\bookings\index.php(50): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[09-Sep-2023 20:14:53 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'and RegDirectSale='7' ORDER BY RegistrationId DESC' at line 1 in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT * FROM r...')
+#1 C:\xampp\htdocs\apna-real-estate\app\bookings\sections\user-bookings.php(95): TOTAL('SELECT * FROM r...')
+#2 C:\xampp\htdocs\apna-real-estate\app\bookings\index.php(50): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[09-Sep-2023 20:30:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\acm\AppFilesAutoRunner.php:120
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(49): require()
+#1 C:\xampp\htdocs\apna-real-estate\app\leads\index.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\AppFilesAutoRunner.php on line 120
+[09-Sep-2023 20:32:07 Asia/Calcutta] PHP Warning:  Undefined array key "LOGIN_USER_ID" in C:\xampp\htdocs\apna-real-estate\acm\AppFilesAutoRunner.php on line 120
+[09-Sep-2023 20:32:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 20:32:07 Asia/Calcutta] PHP Warning:  Undefined array key "LOGIN_USER_ID" in C:\xampp\htdocs\apna-real-estate\acm\AppFilesAutoRunner.php on line 120
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:32:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitPurpose in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 27
+[09-Sep-2023 20:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[09-Sep-2023 20:33:46 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[09-Sep-2023 20:35:51 Asia/Calcutta] PHP Warning:  Undefined variable $FetchUsers in C:\xampp\htdocs\apna-real-estate\handler\AuthController\AuthController.php on line 21
+[09-Sep-2023 20:35:51 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(26): SELECT(NULL)
+#2 C:\xampp\htdocs\apna-real-estate\handler\AuthController\AuthController.php(21): FETCH(NULL, 'UserStatus')
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 12
+[09-Sep-2023 20:36:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 20:38:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 20:38:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 20:47:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 20:48:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[09-Sep-2023 20:58:30 Asia/Calcutta] PHP Warning:  Array to string conversion in C:\xampp\htdocs\apna-real-estate\acm\SysModules\ACTIVITY_Modules\AppLogsDB.php on line 9

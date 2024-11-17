@@ -1,0 +1,1408 @@
+[28-Sep-2023 00:55:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 01:52:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 06:40:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 07:14:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 07:14:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 07:31:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 07:31:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 07:39:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 08:31:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 08:31:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 08:34:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 08:34:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 08:34:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 08:34:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 08:35:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 08:35:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:10:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:31:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:35:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:35:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:35:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:35:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:35:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:35:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:35:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:39:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:45:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:49:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:54:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:57:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:57:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:58:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:58:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 09:59:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:00:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:00:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:01:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:03:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:06:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:10:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:12:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:13:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:15:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:16:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:16:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:17:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:19:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:30:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:41:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:54:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 10:54:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 10:54:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 10:54:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 10:54:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 10:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 10:54:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 10:55:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 10:57:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 11:11:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/details/index.php(54): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 11:15:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 11:25:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 11:25:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 11:32:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 11:35:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 11:47:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 11:47:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 11:47:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 11:47:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 11:48:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 11:48:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 11:48:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 11:49:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[28-Sep-2023 11:49:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[28-Sep-2023 11:51:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[28-Sep-2023 11:52:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 11:59:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[28-Sep-2023 12:18:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 12:19:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 12:32:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 12:35:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:35:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:35:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:35:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:36:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 12:36:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:41:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:41:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:43:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 12:43:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 12:44:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:44:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:44:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:48:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[28-Sep-2023 12:54:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/UserController.php(274): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 12:54:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/UserController.php(274): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 12:54:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:54:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:54:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:54:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:55:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:55:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:55:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:56:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 12:57:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:57:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:57:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:59:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:59:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 12:59:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:00:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:00:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:00:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:00:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:00:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:00:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:00:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:00:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:00:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:01:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:01:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:01:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:01:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:02:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:04:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:04:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:04:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 13:04:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:04:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:06:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:06:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:06:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:06:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:07:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:07:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:08:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:09:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:09:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:09:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:09:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:09:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:09:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:09:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:27:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 13:30:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 13:30:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 14:40:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 14:47:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 14:47:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 15:09:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 15:09:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 15:09:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 15:09:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 15:17:53 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:17:53 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:17:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:17:55 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:17:56 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:17:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:17:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:17:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 15:17:59 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:02 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:04 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:05 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:07 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:08 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:09 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:10 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:11 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:14 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:15 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:16 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:17 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:18 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:20 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:24 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:26 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:27 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:28 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:29 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:30 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:35 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:37 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:38 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:40 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:41 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:42 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:43 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:44 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:47 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:49 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:50 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:18:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'u694216744_roofnassets.config_mail_sender' doesn't exist in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(26): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CONFIG_Modules/Configurations.php(58): FETCH()
+#3 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(27): SMTP_CONFIGS()
+#4 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#5 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#6 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[28-Sep-2023 15:44:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 15:45:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 15:45:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 15:45:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:47:50 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $HolidayDate1 in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 15:48:33 Asia/Calcutta] PHP Warning:  Undefined variable $RunningDateV in /home/u694216744/domains/roofnassets.com/public_html/app/holidays/views/user-holidays.php on line 122
+[28-Sep-2023 16:04:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:37
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 37
+[28-Sep-2023 16:04:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/teams/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/teams/index.php on line 26
+[28-Sep-2023 16:38:24 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 16:58:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/in/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/in/index.php on line 12
+[28-Sep-2023 17:07:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 17:07:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 17:15:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[28-Sep-2023 17:26:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 17:26:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 17:37:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 17:37:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 17:39:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 17:50:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 17:50:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 17:50:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 17:50:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/uploaded/transfer.php(38): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 17:50:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 17:51:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:03:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:10:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:23:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:24:27 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:29:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:30:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:31:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 18:31:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 18:31:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 18:31:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[28-Sep-2023 18:31:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:32:25 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:32:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:32:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AttandanceController.php:147
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AttandanceController.php on line 147
+[28-Sep-2023 18:33:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[28-Sep-2023 18:33:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:34:03 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:34:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:34:45 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:35:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:35:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[28-Sep-2023 18:36:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:37:37 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:38:52 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:39:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:40:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:41:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:41:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:41:52 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:42:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[28-Sep-2023 18:45:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:46:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 18:46:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 19:25:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 23:12:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 23:37:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 23:37:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[28-Sep-2023 23:59:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15

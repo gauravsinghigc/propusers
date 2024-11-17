@@ -1,0 +1,24 @@
+[25-May-2023 13:48:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\header.php on line 18
+[25-May-2023 14:27:52 Asia/Calcutta] PHP Warning:  Undefined variable $ManagedByStatus in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 147
+[25-May-2023 14:27:52 Asia/Calcutta] PHP Warning:  Undefined variable $ManagedByValue in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 148
+[25-May-2023 14:27:52 Asia/Calcutta] PHP Warning:  Undefined variable $ManagedByName in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 148
+[25-May-2023 14:27:52 Asia/Calcutta] PHP Warning:  Undefined variable $FetchCallStatus in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 151
+[25-May-2023 14:28:10 Asia/Calcutta] PHP Warning:  Undefined variable $ManagedByStatus in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 147
+[25-May-2023 14:28:10 Asia/Calcutta] PHP Warning:  Undefined variable $ManagedByValue in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 148
+[25-May-2023 14:28:10 Asia/Calcutta] PHP Warning:  Undefined variable $ManagedByName in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 148
+[25-May-2023 14:28:10 Asia/Calcutta] PHP Warning:  Undefined variable $FetchCallStatus in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 151
+[25-May-2023 14:28:45 Asia/Calcutta] PHP Warning:  Undefined variable $FetchCallStatus in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 151
+[25-May-2023 14:28:51 Asia/Calcutta] PHP Warning:  Undefined variable $FetchCallStatus in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 151
+[25-May-2023 14:29:15 Asia/Calcutta] PHP Warning:  Undefined variable $FetchCallStatus in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 151
+[25-May-2023 14:33:22 Asia/Calcutta] PHP Warning:  Undefined variable $FetchCallStatus in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 151
+[25-May-2023 14:34:30 Asia/Calcutta] PHP Warning:  Undefined variable $FetchCallStatus in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 151
+[25-May-2023 14:34:34 Asia/Calcutta] PHP Warning:  Undefined variable $FetchCallStatus in C:\xampp\htdocs\roofnassets\app\digital\compaigns\index.php on line 151
+[25-May-2023 16:34:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\header.php on line 18

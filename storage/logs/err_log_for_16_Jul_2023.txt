@@ -1,0 +1,4 @@
+[16-Jul-2023 07:56:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[16-Jul-2023 07:57:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[16-Jul-2023 07:58:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[16-Jul-2023 08:01:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5

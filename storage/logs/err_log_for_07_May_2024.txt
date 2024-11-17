@@ -1,0 +1,31 @@
+[07-May-2024 15:11:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 18
+[07-May-2024 19:41:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 18
+[07-May-2024 21:16:54 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPeronsDescription" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 709
+[07-May-2024 21:16:54 Asia/Calcutta] PHP Warning:  Undefined array key "VisitEnquiryStatus" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 711
+[07-May-2024 21:16:54 Asia/Calcutta] PHP Warning:  Undefined array key "interview_date" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 762
+[07-May-2024 21:16:54 Asia/Calcutta] PHP Warning:  Undefined array key "joining_status" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 767
+[07-May-2024 21:24:07 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPeronsDescription" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 709
+[07-May-2024 21:24:07 Asia/Calcutta] PHP Warning:  Undefined array key "VisitEnquiryStatus" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 711
+[07-May-2024 21:24:07 Asia/Calcutta] PHP Warning:  Undefined array key "interview_date" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 762
+[07-May-2024 21:25:31 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPeronsDescription" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 709
+[07-May-2024 21:25:31 Asia/Calcutta] PHP Warning:  Undefined array key "VisitEnquiryStatus" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 711
+[07-May-2024 21:25:31 Asia/Calcutta] PHP Warning:  Undefined array key "interview_date" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 762
+[07-May-2024 21:26:05 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPeronsDescription" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 709
+[07-May-2024 21:26:05 Asia/Calcutta] PHP Warning:  Undefined array key "interview_date" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 762
+[07-May-2024 21:27:29 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPeronsDescription" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 709
+[07-May-2024 21:27:29 Asia/Calcutta] PHP Warning:  Undefined array key "interview_date" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 762
+[07-May-2024 21:27:36 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPeronsDescription" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 709
+[07-May-2024 21:27:36 Asia/Calcutta] PHP Warning:  Undefined array key "interview_date" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 762
+[07-May-2024 21:27:36 Asia/Calcutta] PHP Warning:  Undefined variable $not_joining_reason in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 770
+[07-May-2024 21:28:43 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPeronsDescription" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 709
+[07-May-2024 21:28:43 Asia/Calcutta] PHP Warning:  Undefined array key "interview_date" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 762
+[07-May-2024 21:30:29 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPeronsDescription" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 709
+[07-May-2024 21:30:29 Asia/Calcutta] PHP Warning:  Undefined array key "interview_date" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 762

@@ -1,0 +1,8 @@
+[06-Sep-2023 12:13:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\handler\AuthController\AuthController.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\AuthController\AuthController.php on line 61
+[06-Sep-2023 12:21:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\handler\AuthController\AuthController.php:77
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\AuthController\AuthController.php on line 77

@@ -1,0 +1,139 @@
+[18-Apr-2024 10:33:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 18
+[18-Apr-2024 10:44:07 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'propusers.visitors' doesn't exist in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM v...')
+#1 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM v...')
+#2 C:\xampp\htdocs\propusers\include\dash\recep-dash.php(63): _DB_COMMAND_('SELECT * FROM v...', true)
+#3 C:\xampp\htdocs\propusers\app\index.php(92): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Apr-2024 10:59:54 Asia/Calcutta] PHP Warning:  Undefined array key "VisitorPersonEmailId" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 134
+[18-Apr-2024 10:59:54 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[18-Apr-2024 11:02:57 Asia/Calcutta] PHP Warning:  Undefined array key "VisitorPersonEmailId" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 134
+[18-Apr-2024 11:02:57 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[18-Apr-2024 11:07:19 Asia/Calcutta] PHP Warning:  Undefined array key "VisitorPersonEmailId" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 134
+[18-Apr-2024 11:07:19 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[18-Apr-2024 11:08:55 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPurpose" in C:\xampp\htdocs\propusers\rec\meetings\index.php on line 15
+[18-Apr-2024 11:19:55 Asia/Calcutta] PHP Warning:  Undefined array key "VisitorPersonEmailId" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 134
+[18-Apr-2024 11:19:55 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[18-Apr-2024 11:22:27 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPurpose" in C:\xampp\htdocs\propusers\rec\meetings\index.php on line 15
+[18-Apr-2024 11:24:35 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[18-Apr-2024 11:29:35 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[18-Apr-2024 11:34:02 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPurpose" in C:\xampp\htdocs\propusers\rec\meetings\index.php on line 15
+[18-Apr-2024 11:38:05 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[18-Apr-2024 11:48:07 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_sender_name" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 102
+[18-Apr-2024 11:48:07 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_sender_contact_number" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 103
+[18-Apr-2024 11:48:07 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_courier_sender_name' in 'field list' in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO rec...')
+#1 C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php(90): INSERT('reception_couri...', Array)
+#2 C:\xampp\htdocs\propusers\handler\ModuleHandler.php(10): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[18-Apr-2024 12:14:45 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_sender_name" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 102
+[18-Apr-2024 12:14:45 Asia/Calcutta] PHP Warning:  Undefined array key "reception_courier_sender_contact_number" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 103
+[18-Apr-2024 12:14:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_courier_sender_name' in 'field list' in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO rec...')
+#1 C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php(90): INSERT('reception_couri...', Array)
+#2 C:\xampp\htdocs\propusers\handler\ModuleHandler.php(10): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[18-Apr-2024 12:15:17 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[18-Apr-2024 12:21:44 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'propusers.visitors' doesn't exist in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM v...')
+#1 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM v...')
+#2 C:\xampp\htdocs\propusers\include\dash\recep-dash.php(63): _DB_COMMAND_('SELECT * FROM v...', true)
+#3 C:\xampp\htdocs\propusers\app\index.php(92): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Apr-2024 12:21:47 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'propusers.visitors' doesn't exist in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM v...')
+#1 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM v...')
+#2 C:\xampp\htdocs\propusers\include\dash\recep-dash.php(63): _DB_COMMAND_('SELECT * FROM v...', true)
+#3 C:\xampp\htdocs\propusers\app\index.php(92): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Apr-2024 12:21:50 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\propusers\auth\logout\index.php on line 4
+[18-Apr-2024 12:22:37 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'propusers.visitors' doesn't exist in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM v...')
+#1 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM v...')
+#2 C:\xampp\htdocs\propusers\include\dash\recep-dash.php(63): _DB_COMMAND_('SELECT * FROM v...', true)
+#3 C:\xampp\htdocs\propusers\app\index.php(92): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php on line 12
+[18-Apr-2024 12:31:57 Asia/Calcutta] PHP Warning:  Undefined array key "dir" in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 28
+[18-Apr-2024 12:32:01 Asia/Calcutta] PHP Warning:  Undefined array key "dir" in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 28
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined variable $values in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined variable $values in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined variable $values in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined variable $values in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined variable $values in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined variable $values in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined variable $values in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined variable $values in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined variable $values in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined array key "dir" in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 28
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Undefined variable $values in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 35
+[18-Apr-2024 12:33:46 Asia/Calcutta] PHP Warning:  Undefined array key "dir" in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 28
+[18-Apr-2024 12:34:01 Asia/Calcutta] PHP Warning:  Undefined array key "dir" in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 28
+[18-Apr-2024 12:34:07 Asia/Calcutta] PHP Warning:  Undefined array key "dir" in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 28
+[18-Apr-2024 12:34:14 Asia/Calcutta] PHP Warning:  Undefined array key "dir" in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 28
+[18-Apr-2024 12:34:56 Asia/Calcutta] PHP Warning:  Undefined array key "dir" in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 28
+[18-Apr-2024 12:35:10 Asia/Calcutta] PHP Warning:  Undefined array key "dir" in C:\xampp\htdocs\propusers\include\dash\recep-dash.php on line 28
+[18-Apr-2024 12:54:05 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_meeting_created_at' in 'field list' in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php(68): TOTAL('SELECT receptio...')
+#2 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Apr-2024 12:55:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'reception_meeting_created_at' in 'field list' in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\DBOperations.php:11
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\DBOperations.php(11): mysqli_query(Object(mysqli), 'SELECT receptio...')
+#1 C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php(69): TOTAL('SELECT receptio...')
+#2 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\DBOperations.php on line 11
+[18-Apr-2024 14:02:05 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 236
+[18-Apr-2024 14:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorVisitType in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 256
+[18-Apr-2024 14:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorVisitType in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 256
+[18-Apr-2024 14:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorVisitType in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 256
+[18-Apr-2024 14:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorVisitType in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 256
+[18-Apr-2024 14:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorVisitType in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 256
+[18-Apr-2024 14:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorVisitType in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 256
+[18-Apr-2024 14:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorVisitType in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 256
+[18-Apr-2024 14:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorVisitType in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 256
+[18-Apr-2024 14:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorVisitType in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 256
+[18-Apr-2024 14:54:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorVisitType in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 256
+[18-Apr-2024 16:18:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorEnquiryStatus in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 274
+[18-Apr-2024 16:18:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorEnquiryStatus in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 274
+[18-Apr-2024 16:18:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorEnquiryStatus in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 274
+[18-Apr-2024 16:18:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorEnquiryStatus in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 274
+[18-Apr-2024 16:18:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorEnquiryStatus in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 274
+[18-Apr-2024 16:18:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorEnquiryStatus in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 274
+[18-Apr-2024 16:18:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorEnquiryStatus in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 274
+[18-Apr-2024 16:18:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorEnquiryStatus in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 274
+[18-Apr-2024 16:18:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorEnquiryStatus in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 274
+[18-Apr-2024 16:18:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitorEnquiryStatus in C:\xampp\htdocs\propusers\app\rec\general-enquiry\index.php on line 274
+[18-Apr-2024 19:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPurpose" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 256
+[18-Apr-2024 19:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "interview_profile_name" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 273
+[18-Apr-2024 19:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "work_experience" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 275
+[18-Apr-2024 19:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "joining_date_if_passed" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 276
+[18-Apr-2024 19:59:12 Asia/Calcutta] PHP Warning:  Undefined array key "linkedin_profile_url" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 277
+[18-Apr-2024 20:03:25 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPurpose" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 256

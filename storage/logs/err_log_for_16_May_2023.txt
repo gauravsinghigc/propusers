@@ -1,0 +1,5 @@
+[16-May-2023 11:00:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserProfileImage" in C:\xampp\htdocs\roofnassets\include\app\header.php:62
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\header.php on line 62

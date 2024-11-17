@@ -1,0 +1,63 @@
+[17-Apr-2024 11:16:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 18
+[17-Apr-2024 11:27:13 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:27:13 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:27:13 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:27:13 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:27:17 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:27:17 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:27:17 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:27:17 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:41:58 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:41:58 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:41:58 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:41:59 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:42:00 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:42:00 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:42:00 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 11:42:00 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\propusers\include\forms\VisitorUpdatePopWindow.php on line 135
+[17-Apr-2024 12:39:50 Asia/Calcutta] PHP Warning:  Undefined array key "ACTIVITY" in C:\xampp\htdocs\propusers\rec\visit-type\index.php on line 207
+[17-Apr-2024 14:26:00 Asia/Calcutta] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\propusers\rec\visit-type\index.php on line 377
+[17-Apr-2024 21:47:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 18
+[17-Apr-2024 21:51:30 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'propusers.visitors' doesn't exist in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT * FROM v...')
+#1 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT * FROM v...')
+#2 C:\xampp\htdocs\propusers\include\dash\recep-dash.php(63): _DB_COMMAND_('SELECT * FROM v...', true)
+#3 C:\xampp\htdocs\propusers\app\index.php(92): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Select.php on line 12
+[17-Apr-2024 23:28:48 Asia/Calcutta] PHP Warning:  Undefined array key "VisitorPersonName" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 26
+[17-Apr-2024 23:28:48 Asia/Calcutta] PHP Warning:  Undefined array key "VisitorPersonPhone" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 27
+[17-Apr-2024 23:28:48 Asia/Calcutta] PHP Warning:  Undefined array key "VisitorPersonEmailId" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 28
+[17-Apr-2024 23:28:48 Asia/Calcutta] PHP Warning:  Undefined array key "VisitPurpose" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 29
+[17-Apr-2024 23:28:48 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 31
+[17-Apr-2024 23:28:48 Asia/Calcutta] PHP Warning:  Undefined array key "VisitorPeronsDescription" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 32
+[17-Apr-2024 23:28:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'propusers.visitors' doesn't exist in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO vis...')
+#1 C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php(39): INSERT('visitors', Array)
+#2 C:\xampp\htdocs\propusers\handler\ModuleHandler.php(10): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[17-Apr-2024 23:30:40 Asia/Calcutta] PHP Warning:  Undefined array key "VisitorPeronsDescription" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 32
+[17-Apr-2024 23:30:40 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'propusers.visitors' doesn't exist in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php:41
+Stack trace:
+#0 C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php(41): mysqli_query(Object(mysqli), 'INSERT INTO vis...')
+#1 C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php(39): INSERT('visitors', Array)
+#2 C:\xampp\htdocs\propusers\handler\ModuleHandler.php(10): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\propusers\acm\SysModules\CRUD_Modules\Insert.php on line 41
+[17-Apr-2024 23:32:23 Asia/Calcutta] PHP Warning:  Undefined array key "VisitorPersonEmailId" in C:\xampp\htdocs\propusers\handler\ModuleController\VisitController.php on line 134
+[17-Apr-2024 23:32:23 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[17-Apr-2024 23:32:31 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[17-Apr-2024 23:32:37 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[17-Apr-2024 23:32:44 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48
+[17-Apr-2024 23:32:50 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_PERSON_NAME" in C:\xampp\htdocs\propusers\rec\thanks\index.php on line 48

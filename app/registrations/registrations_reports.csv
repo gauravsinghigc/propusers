@@ -1,0 +1,3 @@
+Sno,AckCode,Phase,CustomerName,PhoneNumber,ProjectName,PaidAmount,PayRefNo,PayMode,PaySource,BusinessHead,TeamHead,DirectSale,RegistrationDate,Status
+1,REG001,"phase 1","Gaurav Singh",8447572565,"Aashiyara II - Sec 37C",12000,jnmm,12900,Cash,"(<?php echo EMP_CODE;?>- ) Admin","(<?php echo EMP_CODE;?>- ) Admin","(<?php echo EMP_CODE;?>- ) Admin","01 Apr, 2023",Active
+,,,,,,12000,,,,,,,,

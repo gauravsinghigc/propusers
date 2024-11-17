@@ -1,0 +1,24 @@
+[05-Jul-2023 12:08:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[05-Jul-2023 12:17:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:17:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:18:41 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[05-Jul-2023 12:18:41 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[05-Jul-2023 12:18:41 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[05-Jul-2023 12:18:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:18:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:18:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:18:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:19:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:19:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:19:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:19:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:27:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:27:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:27:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:27:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:29:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[05-Jul-2023 12:29:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224

@@ -1,0 +1,401 @@
+[10-Sep-2023 08:53:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[10-Sep-2023 10:29:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserMainUserId' in 'field list' in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserMain...')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserMain...')
+#2 C:\xampp\htdocs\apna-real-estate\app\teams\index.php(257): _DB_COMMAND_('SELECT UserMain...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 12
+[10-Sep-2023 10:29:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserMainUserId' in 'field list' in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserMain...')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserMain...')
+#2 C:\xampp\htdocs\apna-real-estate\app\teams\index.php(257): _DB_COMMAND_('SELECT UserMain...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 12
+[10-Sep-2023 10:30:26 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserMainUserId' in 'field list' in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserMain...')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserMain...')
+#2 C:\xampp\htdocs\apna-real-estate\app\teams\index.php(257): _DB_COMMAND_('SELECT UserMain...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 12
+[10-Sep-2023 10:31:04 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserEmpReportingMember' in 'field list' in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserEmpR...')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserEmpR...')
+#2 C:\xampp\htdocs\apna-real-estate\app\teams\index.php(257): _DB_COMMAND_('SELECT UserEmpR...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 12
+[10-Sep-2023 10:31:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 265
+[10-Sep-2023 10:31:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'lead_followups.LeadFollowId' in 'on clause' in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT\r\n       ...')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT\r\n       ...')
+#2 C:\xampp\htdocs\apna-real-estate\app\teams\index.php(284): _DB_COMMAND_('SELECT\r\n       ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 12
+[10-Sep-2023 10:32:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 265
+[10-Sep-2023 10:32:02 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'lead_followups.LeadFollowId' in 'on clause' in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT\r\n       ...')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT\r\n       ...')
+#2 C:\xampp\htdocs\apna-real-estate\app\teams\index.php(284): _DB_COMMAND_('SELECT\r\n       ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 12
+[10-Sep-2023 10:32:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:32:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 10:33:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 245
+[10-Sep-2023 11:33:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 230
+[10-Sep-2023 11:33:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 263
+[10-Sep-2023 11:33:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 263
+[10-Sep-2023 11:33:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 272
+[10-Sep-2023 11:33:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 278
+[10-Sep-2023 11:33:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 284
+[10-Sep-2023 11:33:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 290
+[10-Sep-2023 11:33:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 296
+[10-Sep-2023 11:33:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 302
+[10-Sep-2023 11:33:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 309
+[10-Sep-2023 11:33:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 3
+[10-Sep-2023 11:33:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:33:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:33:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:33:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:33:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:33:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:33:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:33:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:33:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:33:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:34:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:35:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 230
+[10-Sep-2023 11:39:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 272
+[10-Sep-2023 11:39:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 278
+[10-Sep-2023 11:39:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 284
+[10-Sep-2023 11:39:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 290
+[10-Sep-2023 11:39:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 296
+[10-Sep-2023 11:39:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 302
+[10-Sep-2023 11:39:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 309
+[10-Sep-2023 11:39:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 3
+[10-Sep-2023 11:39:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:39:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:40:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:41:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:41:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:41:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:41:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:41:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:41:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:41:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:42:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\index.php on line 230
+[10-Sep-2023 11:43:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 3
+[10-Sep-2023 11:43:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:43:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:44:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserMainUserId in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 3
+[10-Sep-2023 11:47:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:47:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:48:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:49:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:49:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:49:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:49:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:49:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:49:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:49:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:51:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:52:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 11:53:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserEmpGroupName in C:\xampp\htdocs\apna-real-estate\app\teams\data\team-members.php on line 29
+[10-Sep-2023 21:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_location_id in C:\xampp\htdocs\apna-real-estate\app\teams\index2.php on line 125
+[10-Sep-2023 21:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_location_id in C:\xampp\htdocs\apna-real-estate\app\teams\index2.php on line 125
+[10-Sep-2023 21:23:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_location_id in C:\xampp\htdocs\apna-real-estate\app\teams\index2.php on line 125
+[10-Sep-2023 21:23:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$config_location_id in C:\xampp\htdocs\apna-real-estate\app\teams\index2.php on line 125

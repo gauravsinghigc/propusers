@@ -1,0 +1,51 @@
+[03-Jun-2023 09:43:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\attandance.php:5
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\include\app\Header.php(14): include()
+#1 C:\xampp\htdocs\roofnassets\app\index.php(34): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 5
+[03-Jun-2023 09:53:41 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[03-Jun-2023 09:53:41 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[03-Jun-2023 10:26:47 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[03-Jun-2023 10:26:47 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[03-Jun-2023 10:27:51 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[03-Jun-2023 10:27:51 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[03-Jun-2023 10:28:01 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[03-Jun-2023 10:28:01 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[03-Jun-2023 10:28:41 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[03-Jun-2023 10:28:41 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[03-Jun-2023 10:29:16 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[03-Jun-2023 10:29:16 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[03-Jun-2023 10:29:26 Asia/Calcutta] PHP Warning:  Undefined variable $CurrentDateTime in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 153
+[03-Jun-2023 10:31:31 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[03-Jun-2023 10:31:31 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[03-Jun-2023 10:33:13 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[03-Jun-2023 10:33:13 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[03-Jun-2023 10:33:41 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[03-Jun-2023 10:33:41 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[03-Jun-2023 10:39:38 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[03-Jun-2023 10:39:38 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[03-Jun-2023 11:53:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\attandance.php:5
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\include\app\Header.php(14): include()
+#1 C:\xampp\htdocs\roofnassets\app\configs\attandance-settings.php(33): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 5
+[03-Jun-2023 13:21:08 Asia/Calcutta] PHP Warning:  Undefined variable $CheckInSql in C:\xampp\htdocs\roofnassets\app\info\out\index.php on line 79
+[03-Jun-2023 13:21:08 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\app\info\out\index.php(79): FETCH(NULL, 'check_in_locati...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[03-Jun-2023 13:21:14 Asia/Calcutta] PHP Warning:  Undefined variable $CheckInSql in C:\xampp\htdocs\roofnassets\app\info\out\index.php on line 79
+[03-Jun-2023 13:21:14 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\app\info\out\index.php(79): FETCH(NULL, 'check_in_locati...')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[03-Jun-2023 13:43:21 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[03-Jun-2023 17:30:28 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5

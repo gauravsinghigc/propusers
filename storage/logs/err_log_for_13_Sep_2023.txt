@@ -1,0 +1,19 @@
+[13-Sep-2023 10:34:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[13-Sep-2023 15:26:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[13-Sep-2023 16:46:38 Asia/Calcutta] PHP Warning:  Undefined variable $ConfigPgProvider in C:\xampp\htdocs\apna-real-estate\handler\SystemController\ConfigController.php on line 91
+[13-Sep-2023 16:57:39 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in C:\xampp\htdocs\apna-real-estate\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php:1094
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('Reply-To', 'not available', '')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\MAIL_Modules\Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo('not available')
+#2 C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php(267): SENDMAILS('Welcome to APNA...', 'Dear Brielle Gr...', 'gauravsinghigc@...', '<br>\r\n <p>\r\n We...')
+#3 C:\xampp\htdocs\apna-real-estate\handler\ModuleHandler.php(10): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\MAIL_Modules\vendor\phpmailer\phpmailer\src\PHPMailer.php on line 1094

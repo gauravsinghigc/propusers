@@ -1,0 +1,23 @@
+[18-Jul-2023 10:13:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[18-Jul-2023 10:13:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[18-Jul-2023 10:13:43 Asia/Calcutta] PHP Warning:  Undefined array key "LeadRequirementDetails" in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 29
+[18-Jul-2023 10:13:43 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 29
+[18-Jul-2023 10:13:43 Asia/Calcutta] PHP Warning:  Undefined variable $save in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 34
+[18-Jul-2023 10:28:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[18-Jul-2023 10:31:37 Asia/Calcutta] PHP Warning:  Undefined variable $RegSql in C:\xampp\htdocs\roofnassets\app\crm\custs\details\sections\profile.php on line 106
+[18-Jul-2023 10:31:37 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\app\crm\custs\details\sections\profile.php(106): FETCH(NULL, 'RegNetCharge')
+#3 C:\xampp\htdocs\roofnassets\app\crm\custs\details\index.php(41): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[18-Jul-2023 10:34:26 Asia/Calcutta] PHP Warning:  Undefined array key "RegCustomRefId" in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 385
+[18-Jul-2023 10:42:16 Asia/Calcutta] PHP Warning:  Attempt to read property "RegPayTaxPercentage" on string in C:\xampp\htdocs\roofnassets\app\crm\custs\details\sections\profile.php on line 130
+[18-Jul-2023 10:49:56 Asia/Calcutta] PHP Warning:  Undefined variable $Payment1 in C:\xampp\htdocs\roofnassets\view\cif_form.php on line 430
+[18-Jul-2023 10:49:56 Asia/Calcutta] PHP Warning:  Attempt to read property "RegPayTotalAmount" on null in C:\xampp\htdocs\roofnassets\view\cif_form.php on line 430
+[18-Jul-2023 10:49:56 Asia/Calcutta] PHP Warning:  Undefined variable $Payment1 in C:\xampp\htdocs\roofnassets\view\cif_form.php on line 430
+[18-Jul-2023 10:49:56 Asia/Calcutta] PHP Warning:  Attempt to read property "RegPayTotalAmount" on null in C:\xampp\htdocs\roofnassets\view\cif_form.php on line 430
+[18-Jul-2023 10:49:56 Asia/Calcutta] PHP Warning:  Undefined variable $Payment1 in C:\xampp\htdocs\roofnassets\view\cif_form.php on line 430
+[18-Jul-2023 10:49:56 Asia/Calcutta] PHP Warning:  Attempt to read property "RegPayTotalAmount" on null in C:\xampp\htdocs\roofnassets\view\cif_form.php on line 430

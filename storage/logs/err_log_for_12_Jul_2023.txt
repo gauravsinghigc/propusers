@@ -1,0 +1,8 @@
+[12-Jul-2023 10:44:51 Asia/Calcutta] PHP Warning:  Undefined variable $LoginId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 18
+[12-Jul-2023 11:38:15 Asia/Calcutta] PHP Warning:  Undefined variable $LoginId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 18
+[12-Jul-2023 11:45:57 Asia/Calcutta] PHP Warning:  Undefined variable $MAIL_MSG in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 21
+[12-Jul-2023 12:21:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15

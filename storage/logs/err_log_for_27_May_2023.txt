@@ -1,0 +1,430 @@
+[27-May-2023 11:23:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\app\check\index.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\check\index.php on line 12
+[27-May-2023 11:24:05 Asia/Calcutta] PHP Warning:  include(/../include/app/sections/dashboard.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\roofnassets\app\index.php on line 68
+[27-May-2023 11:24:05 Asia/Calcutta] PHP Warning:  include(): Failed opening '/../include/app/sections/dashboard.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\roofnassets\app\index.php on line 68
+[27-May-2023 12:51:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\roofnassets\require\module\config.php on line 59
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 14:51:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UsserId in C:\xampp\htdocs\roofnassets\dev.php on line 9
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:11:23 Asia/Calcutta] PHP Warning:  Undefined variable $Update in C:\xampp\htdocs\roofnassets\dev.php on line 15
+[27-May-2023 15:37:32 Asia/Calcutta] PHP Warning:  Undefined variable $TotalItems in C:\xampp\htdocs\roofnassets\app\teams\index.php on line 213
+[27-May-2023 15:37:32 Asia/Calcutta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in C:\xampp\htdocs\roofnassets\app\teams\index.php:213
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\teams\index.php on line 213
+[27-May-2023 15:40:07 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: PaginationFooter(): Argument #1 ($TotalItems) must be of type int, array given, called in C:\xampp\htdocs\roofnassets\app\teams\index.php on line 277 and defined in C:\xampp\htdocs\roofnassets\require\module\pagination.php:27
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\teams\index.php(277): PaginationFooter(Array, 'index.php')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\pagination.php on line 27
+[27-May-2023 15:42:16 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:17 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:18 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:18 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:19 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:20 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:21 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:21 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:23 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:24 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:25 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:27 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: PaginationFooter(): Argument #1 ($TotalItems) must be of type int, array given, called in C:\xampp\htdocs\roofnassets\app\teams\index.php on line 277 and defined in C:\xampp\htdocs\roofnassets\require\module\pagination.php:27
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\teams\index.php(277): PaginationFooter(Array, 'index.php')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\pagination.php on line 27
+[27-May-2023 15:42:55 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:55 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:58 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:42:59 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:43:00 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:43:00 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:43:01 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:43:02 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:43:03 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:43:03 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:43:04 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:43:05 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:43:06 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: PaginationFooter(): Argument #1 ($TotalItems) must be of type int, array given, called in C:\xampp\htdocs\roofnassets\app\teams\index.php on line 277 and defined in C:\xampp\htdocs\roofnassets\require\module\pagination.php:27
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\teams\index.php(277): PaginationFooter(Array, 'index.php')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\pagination.php on line 27
+[27-May-2023 15:43:25 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: PaginationFooter(): Argument #1 ($TotalItems) must be of type int, array given, called in C:\xampp\htdocs\roofnassets\app\teams\index.php on line 277 and defined in C:\xampp\htdocs\roofnassets\require\module\pagination.php:27
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\teams\index.php(277): PaginationFooter(Array, 'index.php')
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\pagination.php on line 27
+[27-May-2023 15:49:50 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:51 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:52 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:53 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:54 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:54 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:55 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:57 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:58 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:59 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:49:59 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:50:00 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:50:01 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 15:50:02 Asia/Calcutta] PHP Warning:  Undefined array key "UserEmpJoinedId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[27-May-2023 19:23:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\app\check\index.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\check\index.php on line 12
+[27-May-2023 19:32:53 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function FETCH(), 1 passed in C:\xampp\htdocs\roofnassets\include\app\header.php on line 38 and at least 2 expected in C:\xampp\htdocs\roofnassets\require\module\crud.php:256
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\include\app\header.php(38): FETCH('')
+#1 C:\xampp\htdocs\roofnassets\app\index.php(34): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 256
+[27-May-2023 19:38:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[27-May-2023 20:01:18 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\header.php on line 122
+[27-May-2023 20:01:18 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\header.php on line 123
+[27-May-2023 20:02:02 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\header.php on line 122
+[27-May-2023 20:02:02 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\header.php on line 123
+[27-May-2023 20:02:12 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\header.php on line 122
+[27-May-2023 20:02:12 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\header.php on line 123
+[27-May-2023 20:02:48 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\header.php on line 122
+[27-May-2023 20:02:48 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\header.php on line 123
+[27-May-2023 20:02:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[27-May-2023 20:59:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php(32): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 18
+[27-May-2023 21:13:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:25 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 78
+[27-May-2023 21:13:26 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84
+[27-May-2023 21:13:35 Asia/Calcutta] PHP Warning:  Undefined variable $LOGIN_UserProfileImage1 in C:\xampp\htdocs\roofnassets\app\hr\attandance\index.php on line 84

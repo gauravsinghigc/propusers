@@ -1,0 +1,135 @@
+[29-Aug-2023 10:14:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[29-Aug-2023 10:55:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[29-Aug-2023 11:51:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\app\logout.php on line 5
+[29-Aug-2023 22:45:09 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'roofnassets' in C:\xampp\htdocs\apna-real-estate\acm\SystemDBConnector.php:5
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SystemDBConnector.php(5): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'roofnassets')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(37): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\apna-real-estate\app\index.php(3): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SystemDBConnector.php on line 5
+[29-Aug-2023 22:45:49 Asia/Calcutta] PHP Warning:  require(../hanlder/AuthController/AuthAccessController.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\index.php on line 4
+[29-Aug-2023 22:45:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required '../hanlder/AuthController/AuthAccessController.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\index.php on line 4
+[29-Aug-2023 22:46:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[29-Aug-2023 22:46:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function FormPrimaryInputs() in C:\xampp\htdocs\apna-real-estate\auth\login\index.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\auth\login\index.php on line 35
+[29-Aug-2023 22:50:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function FETCH_DATA() in C:\xampp\htdocs\apna-real-estate\handler\AuthController\AuthController.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\AuthController\AuthController.php on line 18
+[29-Aug-2023 22:54:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function APP_LOGS() in C:\xampp\htdocs\apna-real-estate\handler\AuthController\AuthController.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\AuthController\AuthController.php on line 26
+[29-Aug-2023 22:57:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function _DB_COMMAND_() in C:\xampp\htdocs\apna-real-estate\include\app\Attandance.php:28
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\include\app\Header.php(26): include()
+#1 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Attandance.php on line 28
+[29-Aug-2023 22:58:53 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apna-real-estate\include\sidebarside-menus/admin-sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\include\sidebar\get-side-menus.php on line 16
+[29-Aug-2023 22:58:53 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apna-real-estate\include\sidebarside-menus/admin-sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\include\sidebar\get-side-menus.php on line 16
+[29-Aug-2023 22:58:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function FETCH_DB_TABLE() in C:\xampp\htdocs\apna-real-estate\app\index.php:51
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\index.php on line 51
+[29-Aug-2023 23:00:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function DATE_FORMATES() in C:\xampp\htdocs\apna-real-estate\include\dash\admin-dash.php:537
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(85): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\dash\admin-dash.php on line 537
+[29-Aug-2023 23:03:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apna-real-estate\app\users\details\index.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\users\details\index.php on line 19
+[29-Aug-2023 23:17:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GET_DATA() in C:\xampp\htdocs\apna-real-estate\app\users\details\index.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\users\details\index.php on line 19
+[29-Aug-2023 23:22:21 Asia/Calcutta] PHP Warning:  require(../require/Modules.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\AutoEmailSendController.php on line 2
+[29-Aug-2023 23:22:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required '../require/Modules.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\AutoEmailSendController.php:2
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\handler\ModuleHandler.php(9): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\AutoEmailSendController.php on line 2
+[29-Aug-2023 23:23:03 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:03 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:03 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:03 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:03 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:40 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:40 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:40 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:40 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:40 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:46 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:46 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:46 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:46 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:23:46 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\VisitController.php:36
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\handler\ModuleHandler.php(9): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\VisitController.php on line 36
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:39:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\apna-real-estate\include\forms\VisitorUpdatePopWindow.php on line 60
+[29-Aug-2023 23:40:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CurrentFile() in C:\xampp\htdocs\apna-real-estate\app\configs\index.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\configs\index.php on line 117
+[29-Aug-2023 23:44:35 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:44:35 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:44:35 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:44:35 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[29-Aug-2023 23:44:35 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97

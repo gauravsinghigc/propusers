@@ -1,0 +1,12 @@
+[31-Dec-2023 10:13:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:19
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 19
+[31-Dec-2023 11:21:48 Asia/Calcutta] PHP Warning:  Undefined array key "VISITOR_TYPES" in C:\xampp\htdocs\roofnassets\handler\ModuleController\VisitController.php on line 40
+[31-Dec-2023 11:33:24 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 135
+[31-Dec-2023 11:33:24 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 135
+[31-Dec-2023 11:34:12 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 135
+[31-Dec-2023 11:34:13 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 135
+[31-Dec-2023 11:35:20 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 135
+[31-Dec-2023 11:35:20 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 135

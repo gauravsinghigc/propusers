@@ -1,0 +1,69 @@
+[05-Jun-2023 09:47:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[05-Jun-2023 10:40:43 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 85
+[05-Jun-2023 10:40:43 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 86
+[05-Jun-2023 10:41:00 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 85
+[05-Jun-2023 10:41:00 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 86
+[05-Jun-2023 10:41:17 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 85
+[05-Jun-2023 10:41:17 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 86
+[05-Jun-2023 10:41:32 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 85
+[05-Jun-2023 10:41:32 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 86
+[05-Jun-2023 10:41:51 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 85
+[05-Jun-2023 10:41:51 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 86
+[05-Jun-2023 10:42:09 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 85
+[05-Jun-2023 10:42:09 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 86
+[05-Jun-2023 10:49:15 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 37
+[05-Jun-2023 10:49:15 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 38
+[05-Jun-2023 10:50:01 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 37
+[05-Jun-2023 10:50:01 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 38
+[05-Jun-2023 10:50:29 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 37
+[05-Jun-2023 10:50:29 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 38
+[05-Jun-2023 10:51:56 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 42
+[05-Jun-2023 10:51:56 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 43
+[05-Jun-2023 10:55:05 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 54
+[05-Jun-2023 10:55:05 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 55
+[05-Jun-2023 10:57:05 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 60
+[05-Jun-2023 10:57:05 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 61
+[05-Jun-2023 11:06:44 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:06:44 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:07:12 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:07:12 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:07:51 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:07:51 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:11:15 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:11:15 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:24:47 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:24:47 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:25:09 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:25:09 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:27:33 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:27:33 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:33:35 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:33:35 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:34:24 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:34:24 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:35:01 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:35:01 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:35:34 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:35:34 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:36:06 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:36:06 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 11:37:35 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 11:37:35 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 12:37:30 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 12:37:30 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 12:39:28 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 64
+[05-Jun-2023 12:39:28 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\forms\Add-Meeting-End-Details.php on line 65
+[05-Jun-2023 12:39:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[05-Jun-2023 16:34:19 Asia/Calcutta] PHP Warning:  Undefined array key "check_in_date_time" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[05-Jun-2023 17:11:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[05-Jun-2023 17:13:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[05-Jun-2023 18:15:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[05-Jun-2023 18:31:10 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5

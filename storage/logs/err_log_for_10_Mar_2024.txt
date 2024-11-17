@@ -1,0 +1,49 @@
+[10-Mar-2024 07:44:31 Asia/Calcutta] PHP Warning:  Undefined variable $AllUsers in C:\xampp\htdocs\roofnassets\app\attandance\index.php on line 93
+[10-Mar-2024 07:44:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit 0, 10' at line 1 in C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), ' limit 0, 10')
+#1 C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php(42): SELECT(' limit 0, 10')
+#2 C:\xampp\htdocs\roofnassets\app\attandance\index.php(93): _DB_COMMAND_(' limit 0, 10', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php on line 12
+[10-Mar-2024 08:06:39 Asia/Calcutta] PHP Warning:  Undefined variable $CurrentDate in C:\xampp\htdocs\roofnassets\handler\ModuleController\AttandanceController.php on line 299
+[10-Mar-2024 08:21:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[10-Mar-2024 08:22:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[10-Mar-2024 08:27:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[10-Mar-2024 08:27:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[10-Mar-2024 08:45:10 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in C:\xampp\htdocs\roofnassets\acm\SysModules\HTML_Modules\HTMLFunctions.php:279
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\acm\SysModules\HTML_Modules\HTMLFunctions.php(367): SerialNo()
+#1 C:\xampp\htdocs\roofnassets\acm\SystemFileProcessor.php(53): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\roofnassets\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\roofnassets\app\payroll\index.php(5): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 279
+[10-Mar-2024 08:46:16 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 1 in C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserId, ...')
+#1 C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserId, ...')
+#2 C:\xampp\htdocs\roofnassets\app\payroll\index.php(80): _DB_COMMAND_('SELECT UserId, ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php on line 12
+[10-Mar-2024 11:35:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 18
+[10-Mar-2024 11:44:15 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 1 in C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserId, ...')
+#1 C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserId, ...')
+#2 C:\xampp\htdocs\roofnassets\app\attandance\months.php(76): _DB_COMMAND_('SELECT UserId, ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php on line 12
+[10-Mar-2024 11:45:52 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-10, 10' at line 1 in C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserId, ...')
+#1 C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php(42): SELECT('SELECT UserId, ...')
+#2 C:\xampp\htdocs\roofnassets\app\attandance\months.php(76): _DB_COMMAND_('SELECT UserId, ...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\acm\SysModules\CRUD_Modules\Select.php on line 12
+[10-Mar-2024 11:49:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[10-Mar-2024 11:51:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 236

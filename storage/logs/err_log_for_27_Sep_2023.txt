@@ -1,0 +1,755 @@
+[27-Sep-2023 03:37:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 04:33:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 06:13:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 06:40:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 07:41:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 07:41:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 09:31:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 09:32:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 09:44:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 09:47:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 09:51:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 09:52:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 09:53:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 09:59:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:00:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:06:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:06:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:06:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:07:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:07:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:07:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 10:07:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 10:07:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 10:07:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 10:12:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:14:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:18:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:19:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:21:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:22:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:24:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:24:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:26:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:28:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:30:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:34:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:39:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:40:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 10:40:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 10:41:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 10:41:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:42:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 10:42:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 10:42:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 10:42:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 10:44:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 11:04:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[27-Sep-2023 11:10:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 11:11:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 11:11:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 11:12:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 11:13:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 11:15:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[27-Sep-2023 11:19:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 11:20:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 11:20:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/ods/index.php(34): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 11:20:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/ods/index.php(34): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 11:20:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[27-Sep-2023 11:34:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 11:44:44 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 11:53:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 12:08:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 12:28:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 12:43:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 12:55:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 12:55:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 13:06:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 13:06:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 13:24:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 13:24:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/bookings/index.php(32): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 13:38:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 13:38:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:38:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:38:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:41:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:42:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:42:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:42:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:42:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:42:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:42:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:42:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:43:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[27-Sep-2023 13:43:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:43:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:44:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 13:44:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 13:56:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 14:03:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 14:06:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 14:11:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 14:16:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 14:20:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[27-Sep-2023 14:30:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 14:44:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 14:45:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 14:51:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 14:55:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 15:01:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 15:01:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 15:02:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 15:02:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 15:02:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 15:28:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 15:32:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 15:47:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[27-Sep-2023 15:47:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 15:53:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 15:55:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 15:56:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 15:57:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 15:57:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 15:57:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 16:05:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 16:07:03 Asia/Calcutta] PHP Warning:  Undefined variable $BookingId in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/BookingController.php on line 161
+[27-Sep-2023 16:16:44 Asia/Calcutta] PHP Warning:  Undefined array key "UserId" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/UserController.php on line 50
+[27-Sep-2023 16:16:44 Asia/Calcutta] PHP Warning:  Undefined array key "UserLocality" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/UserController.php on line 55
+[27-Sep-2023 16:16:44 Asia/Calcutta] PHP Warning:  Undefined array key "UserCity" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/UserController.php on line 56
+[27-Sep-2023 16:16:44 Asia/Calcutta] PHP Warning:  Undefined array key "UserState" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/UserController.php on line 57
+[27-Sep-2023 16:16:44 Asia/Calcutta] PHP Warning:  Undefined array key "UserCountry" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/UserController.php on line 58
+[27-Sep-2023 16:16:44 Asia/Calcutta] PHP Warning:  Undefined array key "UserPincode" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/UserController.php on line 59
+[27-Sep-2023 16:16:44 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressType" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/UserController.php on line 60
+[27-Sep-2023 16:16:44 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressContactPerson" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/UserController.php on line 61
+[27-Sep-2023 16:20:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 16:20:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 16:20:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 16:20:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 16:24:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/LeadsController.php:264
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/LeadsController.php on line 264
+[27-Sep-2023 16:29:36 Asia/Calcutta] PHP Warning:  Undefined variable $BookingId in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/BookingController.php on line 161
+[27-Sep-2023 16:47:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 16:48:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 16:48:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 16:48:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[27-Sep-2023 16:53:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 16:56:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 16:56:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 17:00:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 17:02:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 17:15:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 17:27:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[27-Sep-2023 17:51:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:02:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:16:31 Asia/Calcutta] PHP Warning:  Undefined array key "ViewCustomerId" in /home/u694216744/domains/roofnassets.com/public_html/app/customers/details/sections/pageHeader.php on line 10
+[27-Sep-2023 18:16:31 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/u694216744/domains/roofnassets.com/public_html/app/customers/details/sections/pageHeader.php on line 14
+[27-Sep-2023 18:16:31 Asia/Calcutta] PHP Warning:  Undefined variable $Data in /home/u694216744/domains/roofnassets.com/public_html/app/customers/details/sections/pageHeader.php on line 16
+[27-Sep-2023 18:16:31 Asia/Calcutta] PHP Warning:  Attempt to read property "CustomerId" on null in /home/u694216744/domains/roofnassets.com/public_html/app/customers/details/sections/pageHeader.php on line 16
+[27-Sep-2023 18:16:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/customers/details/index.php(26): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:32:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AttandanceController.php:147
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AttandanceController.php on line 147
+[27-Sep-2023 18:35:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:36:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:37:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:37:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:08 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:40 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:40 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:40 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:40 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:40 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:40 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:38:40 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:42:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:43:04 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:43:18 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:43:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:47:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:48:51 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:50:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:50:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:50:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:51:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:53:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:54:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:54:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:54:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:54:28 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:54:33 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:54:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 18:55:04 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 18:55:19 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 19:06:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 19:12:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 19:15:07 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 19:19:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 19:19:30 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[27-Sep-2023 19:20:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 19:27:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 19:57:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 22:24:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 22:24:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 22:46:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[27-Sep-2023 22:46:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15

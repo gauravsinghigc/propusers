@@ -1,0 +1,476 @@
+[13-Jul-2023 11:10:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 549
+[13-Jul-2023 11:10:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 549
+[13-Jul-2023 11:10:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 549
+[13-Jul-2023 11:10:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 549
+[13-Jul-2023 11:10:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 549
+[13-Jul-2023 11:10:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 549
+[13-Jul-2023 11:10:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 549
+[13-Jul-2023 11:10:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 549
+[13-Jul-2023 11:10:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 549
+[13-Jul-2023 11:10:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$LeadFollowUpId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 549
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:28:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:30:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 701
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegistrationId in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 702
+[13-Jul-2023 11:31:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegStatus in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 709
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 12:19:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 13:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:23:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 683
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegDirectSale in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 684
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 689
+[13-Jul-2023 16:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$RegBusHead in C:\xampp\htdocs\roofnassets\include\dash\admin-dash.php on line 690
+[13-Jul-2023 16:30:44 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[13-Jul-2023 16:30:53 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[13-Jul-2023 16:30:56 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[13-Jul-2023 16:30:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[13-Jul-2023 16:31:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[13-Jul-2023 16:31:02 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[13-Jul-2023 16:31:05 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114

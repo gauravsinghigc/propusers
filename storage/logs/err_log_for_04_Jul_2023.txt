@@ -1,0 +1,89 @@
+[04-Jul-2023 10:23:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[04-Jul-2023 10:52:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[04-Jul-2023 11:04:30 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[04-Jul-2023 11:21:47 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:21:47 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:21:47 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:21:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:22:12 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:22:12 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:22:12 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:22:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:22:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:23:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:23:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:24:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:24:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:29:26 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:29:26 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:29:26 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:29:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:29:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:29:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:29:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:30:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:30:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:31:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:31:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:32:33 Asia/Calcutta] PHP Warning:  Undefined array key "check_in_status" in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 26
+[04-Jul-2023 11:35:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:35:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:35:29 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:35:29 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:35:29 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[04-Jul-2023 11:35:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:35:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:42:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:42:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:49:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:50:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[04-Jul-2023 11:54:00 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\app\leads\index.php on line 182
+[04-Jul-2023 12:04:27 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\app\leads\index.php on line 182
+[04-Jul-2023 12:04:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 12:04:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 12:06:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 12:06:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 15:37:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 15:37:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 15:48:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 15:48:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 16:18:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 16:18:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 16:27:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[04-Jul-2023 16:27:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224

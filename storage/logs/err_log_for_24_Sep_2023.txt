@@ -1,0 +1,568 @@
+[24-Sep-2023 15:37:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[24-Sep-2023 15:38:52 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[24-Sep-2023 15:38:57 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[24-Sep-2023 15:40:17 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 5
+[24-Sep-2023 15:40:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 5
+[24-Sep-2023 15:45:16 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 4
+[24-Sep-2023 15:45:41 Asia/Calcutta] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 40
+[24-Sep-2023 15:45:41 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\access-wise-sidebars): Failed to open stream: Permission denied in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 41
+[24-Sep-2023 15:45:41 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars/access-wise-sidebars/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 41
+[24-Sep-2023 15:45:46 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 4
+[24-Sep-2023 15:45:51 Asia/Calcutta] PHP Warning:  Undefined array key "" in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 40
+[24-Sep-2023 15:45:51 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\access-wise-sidebars): Failed to open stream: Permission denied in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 41
+[24-Sep-2023 15:45:51 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars/access-wise-sidebars/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 41
+[24-Sep-2023 15:46:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 4
+[24-Sep-2023 16:07:53 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 4
+[24-Sep-2023 16:08:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[24-Sep-2023 16:09:41 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - int in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\HTMLFunctions.php:279
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\HTMLFunctions.php(356): SerialNo()
+#1 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(53): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\app\users\index.php(3): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 279
+[24-Sep-2023 16:11:09 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 4
+[24-Sep-2023 16:11:19 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 39
+[24-Sep-2023 16:11:19 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 39
+[24-Sep-2023 16:13:38 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 4
+[24-Sep-2023 16:17:54 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:17:56 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:18:05 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:18:14 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:18:25 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:18:26 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:18:28 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:18:45 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:18:54 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:19:02 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:19:13 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in /home/u694216744/domains/roofnassets.com/public_html/include/sidebar/sidebars/generate-sidebars.php on line 39
+[24-Sep-2023 16:19:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:19:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:19:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:20:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:20:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:20:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:20:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 16:20:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:23:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:23:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 16:23:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:23:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:23:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:23:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:23:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:23:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 16:23:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 16:24:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:25:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:28:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:28:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:31:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class "ComposerAutoloaderInitb6e277fae92c30e4feadd0b32e40adde" not found in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/autoload.php:25
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(12): require()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SystemFileProcessor.php(92): require('/home/u69421674...')
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php(40): require('/home/u69421674...')
+#3 /home/u694216744/domains/roofnassets.com/public_html/index.php(3): require('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/autoload.php on line 25
+[24-Sep-2023 16:31:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 16:33:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 16:33:36 Asia/Calcutta] PHP Parse error:  Unclosed '{' on line 2523 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 2524
+[24-Sep-2023 16:36:20 Asia/Calcutta] PHP Warning:  Undefined variable $UserId in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 52
+[24-Sep-2023 16:36:20 Asia/Calcutta] PHP Warning:  Undefined variable $FetchUsers in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 55
+[24-Sep-2023 16:36:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 55
+[24-Sep-2023 16:36:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:36:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:36:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:36:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:36:53 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 16:36:59 Asia/Calcutta] PHP Warning:  Undefined variable $UserId in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 52
+[24-Sep-2023 16:36:59 Asia/Calcutta] PHP Warning:  Undefined variable $FetchUsers in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 55
+[24-Sep-2023 16:36:59 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 55
+[24-Sep-2023 16:37:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:37:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:37:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:37:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 16:37:27 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 16:54:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 17:02:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:03:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:03:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:03:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:03:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:04:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:06:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 17:06:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:06:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:07:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:07:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:07:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:14:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:15:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:15:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:09 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:09 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:10 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 17:15:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:15:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:17:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:17:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:17:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:17:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:17:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:17:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:17:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:17:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 17:18:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:28:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:34:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:36:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 17:36:52 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 17:53:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 17:53:01 Asia/Calcutta] PHP Parse error:  Unclosed '[' on line 54 in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/ApplicantController.php on line 60
+[24-Sep-2023 17:53:39 Asia/Calcutta] PHP Warning:  Undefined variable $UserId in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 52
+[24-Sep-2023 17:53:39 Asia/Calcutta] PHP Warning:  Undefined variable $FetchUsers in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 55
+[24-Sep-2023 17:53:39 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 55
+[24-Sep-2023 17:53:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function InputOptionsWithKey() in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/HTML_Modules/Calendar.php:58
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/HTML_Modules/Calendar.php(115): OrganiseDateMonthYear()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SystemFileProcessor.php(54): require('/home/u69421674...')
+#2 /home/u694216744/domains/roofnassets.com/public_html/acm/SysFileAutoLoader.php(40): require('/home/u69421674...')
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(2): require('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/HTML_Modules/Calendar.php on line 58
+[24-Sep-2023 17:53:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function Price() in /home/u694216744/domains/roofnassets.com/public_html/include/dash/admin-dash.php:122
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(86): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/dash/admin-dash.php on line 122
+[24-Sep-2023 17:53:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:53:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:53:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:54:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:55:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:56:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:56:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:57:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:57:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:58:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:58:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:58:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:59:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:59:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 17:59:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:00:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:00:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:01:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:01:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:03:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:03:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:03:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:04:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:04:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:04:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:04:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:08:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:09:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:09:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:09:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:09:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:09:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:09:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:10:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:10:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:10:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:10:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:10:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:11:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:11:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:12:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:13:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:13:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:17:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:17:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:17:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:17:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:18:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:18:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:20:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:20:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:20:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:21:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:21:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:21:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:21:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:21:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:22:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:22:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:22:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:22:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:22:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:22:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:23:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:23:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:23:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:23:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:24:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:24:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:25:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 18:25:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:25:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:25:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:25:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:26:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:26:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:26:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:26:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 18:26:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:26:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:27:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:27:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:27:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 18:28:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 18:28:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 18:28:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 18:28:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:29:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:29:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:29:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:29:53 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:30:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:30:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:31:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:31:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:31:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:32:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:32:13 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:32:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:32:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:32:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:34:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:34:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:34:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:34:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:34:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:34:57 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:35:28 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:36:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:36:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:36:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:37:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:37:47 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:47 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:47 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:47 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:47 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:47 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:47 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:47 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:48 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[24-Sep-2023 18:37:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:38:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:38:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:39:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:39:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:40:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:40:31 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:42:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 18:46:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:48:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 18:48:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 18:48:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 18:49:07 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 18:52:24 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 19:16:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 19:16:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 21:04:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 21:05:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 21:08:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 21:08:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 21:09:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[24-Sep-2023 21:27:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[24-Sep-2023 21:37:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[24-Sep-2023 21:45:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15

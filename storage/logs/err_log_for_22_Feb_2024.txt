@@ -1,0 +1,5 @@
+[22-Feb-2024 14:50:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 18

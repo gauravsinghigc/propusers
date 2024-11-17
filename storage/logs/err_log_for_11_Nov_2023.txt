@@ -1,0 +1,275 @@
+[11-Nov-2023 05:16:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[11-Nov-2023 06:35:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[11-Nov-2023 07:33:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[11-Nov-2023 08:06:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[11-Nov-2023 11:39:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[11-Nov-2023 13:30:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[11-Nov-2023 16:04:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/index.php(27): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:27 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:28 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:29 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[11-Nov-2023 16:11:30 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[11-Nov-2023 18:33:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[11-Nov-2023 18:34:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[11-Nov-2023 19:37:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[11-Nov-2023 21:42:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19

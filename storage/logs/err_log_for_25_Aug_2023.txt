@@ -1,0 +1,8 @@
+[25-Aug-2023 14:46:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[25-Aug-2023 14:46:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 16
+[25-Aug-2023 14:46:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[25-Aug-2023 14:46:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26

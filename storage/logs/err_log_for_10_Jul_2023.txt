@@ -1,0 +1,866 @@
+[10-Jul-2023 11:13:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[10-Jul-2023 11:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $UserSql in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php on line 28
+[10-Jul-2023 11:19:29 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php(28): FETCH(NULL, 'UserFullName')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 11:19:32 Asia/Calcutta] PHP Warning:  Undefined variable $UserSql in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php on line 28
+[10-Jul-2023 11:19:32 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT(NULL)
+#2 C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php(28): FETCH(NULL, 'UserFullName')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 11:50:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php on line 155
+[10-Jul-2023 11:50:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserFullName" on null in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php on line 155
+[10-Jul-2023 11:50:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php on line 157
+[10-Jul-2023 11:50:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserPhoneNumber" on null in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php on line 157
+[10-Jul-2023 11:50:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php on line 158
+[10-Jul-2023 11:50:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserEmailId" on null in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php on line 158
+[10-Jul-2023 11:50:03 Asia/Calcutta] PHP Warning:  Undefined variable $User in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php on line 164
+[10-Jul-2023 11:50:03 Asia/Calcutta] PHP Warning:  Attempt to read property "UserId" on null in C:\xampp\htdocs\roofnassets\app\hr\payroll\reports\send.php on line 164
+[10-Jul-2023 12:53:15 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\app\leads\index.php on line 182
+[10-Jul-2023 13:27:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[10-Jul-2023 13:27:59 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\app\leads\index.php on line 182
+[10-Jul-2023 13:29:05 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[10-Jul-2023 13:29:05 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[10-Jul-2023 13:30:00 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\forms\Add-Feedback.php on line 1
+[10-Jul-2023 13:30:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\details\index.php(491): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:05 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\forms\Add-Feedback.php on line 1
+[10-Jul-2023 13:30:05 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\details\index.php(491): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:08 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\forms\Add-Feedback.php on line 1
+[10-Jul-2023 13:30:08 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\details\index.php(491): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:08 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\forms\Add-Feedback.php on line 1
+[10-Jul-2023 13:30:08 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\details\index.php(491): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:11 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\forms\Add-Feedback.php on line 1
+[10-Jul-2023 13:30:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\details\index.php(491): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\index.php(564): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\add.php(204): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\add.php(204): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:14 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:30:42 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:31:41 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:31:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[10-Jul-2023 13:31:53 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:31:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:32:18 Asia/Calcutta] PHP Warning:  Undefined variable $hidden in C:\xampp\htdocs\roofnassets\include\forms\Add-Feedback.php on line 1
+[10-Jul-2023 13:32:18 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\details\index.php(491): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:32:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:32:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\index.php(564): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:32:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:32:44 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:33:57 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:34:20 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:36:29 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:37:30 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:38:38 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:39:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:40:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:40:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:41:05 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:41:24 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:41:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:42:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:42:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\details\index.php(491): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:42:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:42:52 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:43:04 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:43:31 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:43:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:43:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:43:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[10-Jul-2023 13:44:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[10-Jul-2023 13:44:18 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:44:41 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:44:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:46:55 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:47:32 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:49:34 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:51:30 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:52:18 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:52:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:53:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:53:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 13:58:47 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:02:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:02:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:03:11 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:03:16 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:03:20 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:03:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(211): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:04:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:04:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:05:20 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:05:30 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:06:07 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:07:26 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:07:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:07:38 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:08:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:09:43 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:10:27 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:11:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:11:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(3): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:16:56 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:16:56 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:16:56 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:17:00 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:17:00 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:17:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:19:50 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:19:50 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:19:50 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:19:53 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:19:53 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:19:53 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:22:33 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:22:33 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:22:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:22:36 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:22:36 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:22:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:22:38 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:22:38 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:22:38 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:29:41 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:29:41 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:29:41 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:30:02 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:30:02 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:30:02 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:32:23 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:32:23 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:32:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 14:50:22 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 14:50:22 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 14:50:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 15:12:59 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 15:12:59 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 15:12:59 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\index.php(564): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 15:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 15:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 15:13:04 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 15:14:42 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 15:14:42 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 15:14:42 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 15:20:54 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 15:20:54 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 15:20:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 15:34:45 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 15:34:45 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 15:34:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(102): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 15:41:54 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 15:41:54 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40
+[10-Jul-2023 15:41:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\roofnassets\include\alerts\reminder-pop.php(210): FETCH('SELECT UserFull...', 'UserFullName')
+#3 C:\xampp\htdocs\roofnassets\include\app\footer.php(51): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\leads\index.php(564): include('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[10-Jul-2023 15:43:21 Asia/Calcutta] PHP Warning:  Undefined variable $GetRemindertime in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 35
+[10-Jul-2023 15:43:21 Asia/Calcutta] PHP Warning:  Undefined variable $TodayData in C:\xampp\htdocs\roofnassets\include\app\footer.php on line 40

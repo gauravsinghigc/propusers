@@ -1,0 +1,8 @@
+[18-Aug-2023 10:04:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 16
+[18-Aug-2023 10:04:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[18-Aug-2023 10:04:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[18-Aug-2023 10:05:11 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[18-Aug-2023 10:05:11 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[18-Aug-2023 10:05:11 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\roofnassets\require\module\payments.php on line 65
+[18-Aug-2023 10:05:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[18-Aug-2023 10:05:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224

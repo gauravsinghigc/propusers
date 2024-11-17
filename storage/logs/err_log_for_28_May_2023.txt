@@ -1,0 +1,30 @@
+[28-May-2023 12:28:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 18
+[28-May-2023 12:33:27 Asia/Calcutta] PHP Warning:  Undefined array key "REQ_UserId" in C:\xampp\htdocs\roofnassets\app\users\details\sections\DataCapture.php on line 6
+[28-May-2023 12:35:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 18
+[28-May-2023 12:35:53 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 122
+[28-May-2023 12:35:53 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 123
+[28-May-2023 12:37:45 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 122
+[28-May-2023 12:37:45 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 123
+[28-May-2023 12:38:23 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 122
+[28-May-2023 12:38:23 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 123
+[28-May-2023 12:40:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[28-May-2023 12:44:29 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 122
+[28-May-2023 12:44:29 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 123
+[28-May-2023 12:44:52 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 122
+[28-May-2023 12:44:52 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 123
+[28-May-2023 12:45:17 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 122
+[28-May-2023 12:45:17 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 123
+[28-May-2023 13:28:52 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[28-May-2023 13:29:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 66
+[28-May-2023 13:30:17 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 122
+[28-May-2023 13:30:17 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 123
+[28-May-2023 13:31:04 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 122
+[28-May-2023 13:31:04 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 123

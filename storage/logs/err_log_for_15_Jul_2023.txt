@@ -1,0 +1,56 @@
+[15-Jul-2023 10:18:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[15-Jul-2023 10:18:30 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[15-Jul-2023 10:21:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[15-Jul-2023 10:22:29 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[15-Jul-2023 10:23:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[15-Jul-2023 10:23:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[15-Jul-2023 10:23:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM users, user_employment_details where UserStatus='1' and UserEmpGroupName...' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT  FROM us...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT  FROM us...')
+#2 C:\xampp\htdocs\roofnassets\include\forms\UpdateBookingDetails.php(90): _DB_COMMAND_('SELECT  FROM us...', true)
+#3 C:\xampp\htdocs\roofnassets\app\crm\reg\index.php(367): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114

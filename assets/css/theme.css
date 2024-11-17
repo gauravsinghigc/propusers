@@ -1,0 +1,681 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+.btn {
+  border-radius: 0.3rem !important;
+}
+
+.btn-xs {
+  font-size: 0.8rem !important;
+  padding: 0.4rem 0.7rem !important;
+  line-height: normal !important;
+}
+
+.btn-sm {
+  font-size: 0.92rem !important;
+  padding: 0.4rem 0.9rem !important;
+}
+
+.btn-success,
+.btn-danger,
+.btn-danger,
+.btn-primary {
+  color: white !important;
+}
+
+.card-window .fs-14.text-black {
+  font-size: 0.88rem !important;
+  color: grey !important;
+}
+
+.record-details {
+  display: flex;
+  justify-content: left;
+}
+
+.header .nav-link {
+  width: max-content;
+  margin: 0.1rem;
+  margin-bottom: 0px !important;
+}
+
+.header .nav-link .fa {
+  font-size: 1.5rem !important;
+  padding: 0.3rem !important;
+  box-shadow: 0px 0px 1px grey !important;
+  border-radius: 0.5rem !important;
+  width: 40px !important;
+  text-align: center;
+  color: rgb(214, 214, 214);
+}
+
+@keyframes blink {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0.2;
+    color: grey;
+  }
+}
+
+.header .nav-link .fa.active {
+  animation: blink 0.6s infinite;
+  color: black;
+}
+
+.header .nav-link .number {
+  background-color: black;
+  color: white;
+  font-size: 0.7rem;
+  padding: 0.1rem 0.4rem !important;
+  border-radius: 2rem;
+  margin-left: -0.8rem;
+  margin-top: -0.5rem;
+  position: absolute;
+}
+
+.header .nav-link .fa-clock {
+  color: rgb(243, 183, 183) !important;
+  font-size: 1.5rem !important;
+  width: 35px !important;
+  text-align: center;
+  box-shadow: 0px 0px 0px grey !important;
+}
+
+.header .nav-link #clock {
+  font-size: 1.5rem !important;
+  color: rgb(148, 148, 148) !important;
+  margin-left: -0.7rem !important;
+}
+
+.auth-header .p-1 .h6 {
+  padding: 0.45rem !important;
+}
+
+.dashboard-record .card-body {
+  box-shadow: 0px 5px 10px grey !important;
+  border-radius: 0.5rem;
+  margin-bottom: 1.5rem !important;
+}
+
+.data-display-2 ul li {
+  list-style-type: none;
+}
+
+.data-display-2 {
+  margin-top: 0.1rem !important;
+  padding-top: 0.2rem !important;
+}
+
+.data-display-2 .data-list {
+  background-color: white !important;
+  border-radius: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.data-display-2 ul {
+  height: auto;
+  min-height: max-content;
+  max-height: 100%;
+  margin-bottom: 1rem !important;
+  padding-top: 0rem !important;
+  scrollbar-width: thin;
+  scrollbar-color: #fd0000 #e0e0e0;
+  scrollbar-width: thin;
+  scrollbar-gutter: stable;
+  padding-left: 0.1rem !important;
+  padding-right: 0.2rem !important;
+}
+
+.data-display-2.height-limit,
+.height-limit {
+  height: auto !important;
+  min-height: max-content !important;
+  max-height: 28rem !important;
+  overflow-y: scroll !important;
+  padding: 0.1rem !important;
+}
+
+.data-list span span {
+  font-weight: 500 !important;
+}
+
+.box-shadow {
+  box-shadow: 0px 0px 2px grey !important;
+  border-radius: 0.3rem !important;
+  padding: 0.4rem !important;
+}
+
+.row {
+  margin-bottom: 0.7rem !important;
+}
+
+.contact-info li {
+  list-style-type: none !important;
+  background-color: aliceblue;
+  padding: 0.45rem;
+  margin-bottom: 0.2rem;
+  border-radius: 0.5rem !important;
+}
+
+.contact-info {
+  padding-left: 0px !important;
+  margin-top: 0.7rem !important;
+}
+
+.details.box-shadow .card {
+  margin-bottom: 0.1rem !important;
+}
+
+.mobile-view-of-alert {
+  width: 100% !important;
+  overflow-x: scroll;
+  position: fixed;
+  bottom: 0rem;
+  left: 0px !important;
+  z-index: 99999999999999999;
+  display: flex;
+  justify-content: center;
+  background-color: white !important;
+  padding: 0.3rem;
+  box-shadow: 0px 0px 1px black;
+}
+
+.width-limit::-webkit-scrollbar {
+  display: none !important;
+}
+
+.content {
+  padding-bottom: 2rem !important;
+  margin-bottom: 2rem !important;
+}
+
+div.row div {}
+
+.text-info,
+.btn .text-info,
+.data-list .btn.btn-sm {
+  color: rgb(0, 121, 168) !important;
+  padding: 0px !important;
+}
+
+.data-list .text-success {
+  color: rgb(29, 128, 58) !important;
+}
+
+.data-list .btn-xs {
+  padding: 0.3rem 0.6rem !important;
+  font-size: 0.5rem !important;
+  margin: 0.1rem !important;
+}
+
+.members {
+  width: auto;
+  cursor: pointer;
+  margin-right: 1.4rem !important;
+}
+
+.members .member-count {
+  background-color: black;
+  color: white !important;
+  text-align: center !important;
+  padding: 0.3rem 0.7rem !important;
+  border-radius: 1rem 1rem 0rem 1rem;
+}
+
+.members .record-list {
+  display: none;
+  position: absolute;
+  flex-direction: column;
+  background-color: white;
+  padding: 0.7rem;
+  box-shadow: 0px 0px 10px black;
+  z-index: 9;
+  border-radius: 0rem 0.5rem 0.5rem 0.5rem;
+  margin-left: 3.8rem;
+  margin-top: -0.2rem;
+  width: min-content !important;
+}
+
+.members:hover .record-list {
+  display: flex;
+}
+
+.members .record-list .list {
+  padding: 0.2rem 0.4rem !important;
+}
+
+.members .record-list .list .fa {
+  color: green !important;
+}
+
+.side-count {
+  position: absolute;
+  right: 0.3rem;
+  font-size: 0.73rem !important;
+  color: white;
+  font-weight: 500;
+  margin-top: 0.45rem;
+  background-color: #d8d8d8;
+  padding: 0.1rem 0.4rem;
+  border-radius: 2rem;
+}
+
+.details h5 {
+  font-size: 1.1rem !important;
+}
+
+.pull-left {
+  float: left !important;
+}
+
+.dashboard-record .data-display-2 li.data-list {
+  font-size: 0.8rem !important;
+}
+
+.list-img {
+  width: 1.2rem !important;
+  height: 1.2rem !important;
+}
+
+.list-img:hover {
+  transform: scale(1.5);
+}
+
+.auto-height {
+  line-height: 1rem !important;
+}
+
+.contact-info li.active {
+  background-color: black;
+}
+
+.contact-info li.active a {
+  color: white !important;
+}
+
+.app-sub-heading {
+  margin-top: 0px !important;
+}
+
+.app-heading {
+  margin-top: 0px !important;
+}
+
+.calendar {
+  box-shadow: 0px 0px 1px black !important;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.calendar .current-date {
+  font-size: 2rem !important;
+  margin-bottom: 0.5rem;
+}
+
+.calendar table tr td,
+.calendar table tr th {
+  border: none !important;
+  text-align: center !important;
+  border-radius: 1rem;
+  width: max-content !important;
+  margin: 0.1rem !important;
+  line-height: 2rem !important;
+}
+
+.calendar td.today a {
+  color: white !important;
+}
+
+.calendar td a.active {
+  color: rgb(243, 6, 6) !important;
+  background-color: lightgoldenrodyellow !important;
+  width: 14%;
+  height: auto;
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+
+.calendar td:hover a {
+  color: rgb(243, 6, 6) !important;
+  background-color: lightgoldenrodyellow !important;
+  width: 14%;
+  height: auto;
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+
+.calendar a {
+  font-size: 1rem !important;
+}
+
+.calendar td.today a {
+  background-color: rgb(40, 139, 53) !important;
+  color: white !important;
+  width: 14%;
+  height: auto;
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+
+.calendar .cal-header th {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  color: black !important;
+  text-transform: uppercase !important;
+  font-size: 1rem !important;
+}
+
+img {
+  border-radius: 0.5rem !important;
+}
+
+.img {
+  border-radius: 0.5rem !important;
+}
+
+.od-section {
+  display: flex;
+}
+
+.od-section .u-profile {
+  width: 9.7%;
+  margin-top: 0.25rem;
+}
+
+.od-section .u-profile img {
+  width: 100%;
+}
+
+.od-section .od-details {
+  padding: 0.2rem;
+  width: 70% !important;
+  margin-top: 0.15rem;
+}
+
+.od-section .od-action {
+  width: 42%;
+  align-items: center;
+  text-align: right;
+}
+
+.od-section .od-action form {
+  margin: 0.1rem;
+}
+
+.od-section.approved {
+  border-style: groove;
+  border-color: rgb(10, 209, 60);
+  border-width: 1px 1px 1px 5px;
+}
+
+.od-section.rejected {
+  border-style: groove;
+  border-color: red;
+  border-width: 1px 1px 1px 5px;
+}
+
+.od-section.active {
+  border-style: groove;
+  border-color: rgb(125, 175, 241);
+  border-width: 1px 1px 1px 5px;
+}
+
+.od-section.new {
+  border-style: groove;
+  border-color: lightcyan;
+  border-width: 1px 1px 1px 5px;
+}
+
+.btn.approved {
+  background-color: rgb(10, 209, 60);
+  color: white !important;
+}
+
+.btn.rejected {
+  background-color: red;
+  color: white !important;
+}
+
+.btn.new {
+  background-color: aliceblue;
+  color: black !important;
+}
+
+.od-action .btn.active {
+  background-color: rgb(125, 175, 241);
+  color: white !important;
+}
+
+.btn.completed {
+  background-color: rgb(0, 0, 0);
+  color: white !important;
+}
+
+.daily-quotes {
+  font-family: "Anton", sans-serif !important;
+  font-size: 1.5rem !important;
+  box-shadow: 0px 0px 2px red;
+  padding: 0.2rem 0.5rem !important;
+  border-radius: 0.5rem;
+}
+
+.daily-quotes span {
+  color: red !important;
+}
+
+.nav-item .counter {
+  float: right;
+  background-color: red;
+  color: white;
+  padding: 0.1rem 0.5rem;
+  border-radius: 10rem;
+}
+
+.nav-item:hover,
+.nav-item:hover .nav-link {
+  background-color: black !important;
+  color: white !important;
+}
+
+.attandance-widget div {
+  box-shadow: 0px 0px 1px grey !important;
+  display: block;
+  width: 100%;
+  margin: 0.5%;
+  text-align: center;
+  border-radius: 0.5rem;
+}
+
+.absants {
+  color: red !important;
+}
+
+.absants2 {
+  background-color: red !important;
+  color: white !important;
+  border-radius: 0.2rem;
+  padding: 0.35rem;
+}
+
+.late {
+  color: rgb(196, 166, 0) !important;
+}
+
+.late2 {
+  background-color: rgb(196, 166, 0) !important;
+  color: white !important;
+  border-radius: 0.2rem;
+  padding: 0.35rem;
+}
+
+.half-day {
+  color: rgb(158, 104, 3) !important;
+}
+
+.half-day-2 {
+  background-color: rgb(158, 104, 3) !important;
+  color: white !important;
+  border-radius: 0.2rem;
+  padding: 0.35rem;
+}
+
+.leaves {
+  color: rgb(136, 8, 161) !important;
+}
+
+.leaves2 {
+  background-color: rgb(136, 8, 161) !important;
+  color: white !important;
+  border-radius: 0.2rem;
+  padding: 0.35rem;
+}
+
+.meetings {
+  color: rgb(0, 162, 255) !important;
+}
+
+.meetings2 {
+  background-color: rgb(0, 162, 255) !important;
+  color: white !important;
+  border-radius: 0.2rem;
+  padding: 0.35rem;
+}
+
+.presents {
+  color: rgb(5, 170, 5) !important;
+}
+
+.presents2 {
+  background-color: rgb(5, 170, 5) !important;
+  color: white !important;
+  border-radius: 0.2rem;
+  padding: 0.2rem;
+}
+
+.holidays {
+  background-color: black !important;
+  color: white !important;
+  border-radius: 0.2rem;
+  padding: 0.35rem;
+}
+
+.shortLeaves2 {
+  background-color: rgb(197, 194, 3) !important;
+  color: white !important;
+  border-radius: 0.2rem;
+  padding: 0.35rem;
+}
+
+.shortLeaves {
+  color: rgb(197, 194, 3) !important;
+}
+
+.attandance-days th,
+.attandance-days td {
+  font-size: 1rem !important;
+  padding: 0.2rem !important;
+}
+
+.attandance-days th {
+  background-color: black !important;
+  color: white !important;
+  border-radius: 0px !important;
+}
+
+.attandance-days td {
+  padding: 0.1rem !important;
+  width: 100% !important;
+}
+
+.days-att {
+  padding: 0.5rem !important;
+  font-size: 1rem !important;
+}
+
+.att-static ul {
+  padding-left: 0.5rem !important;
+  padding-right: 1rem !important;
+}
+
+.att-static ul li {
+  list-style-type: none !important;
+  line-height: 2.5rem !important;
+}
+
+.att-static ul li span {
+  margin: 0.3rem !important;
+  font-size: 1rem !important;
+}
+
+.att-static2 ul {
+  padding-left: 0rem !important;
+  padding-right: 0.5rem !important;
+  margin-bottom: 0px !important;
+}
+
+.att-static2 ul li {
+  list-style-type: none !important;
+  line-height: 0.99 !important;
+}
+
+.att-static2 ul li span {
+  margin: 0.3rem !important;
+  font-size: 0.75rem !important;
+  font-weight: 400 !important;
+}
+
+.flex-s-b p {
+  line-height: 0.9rem !important;
+}
+
+.link {
+  cursor: pointer !important;
+}
+
+.bold {
+  font-weight: 800 !important;
+}
+
+.border-danger {
+  border-style: groove;
+  border-width: 0.25rem;
+  border-color: #fd0000 !important;
+  border-radius: 0.25rem !important;
+}
+
+.bg-light-grey {
+  background-color: lightblue !important;
+}
+
+.cursor {
+  cursor: pointer !important;
+}
+
+.date-attandance {
+  position: absolute;
+  background-color: black;
+  color: white !important;
+  padding: 0.5rem 1rem;
+  border-radius: 0.2rem;
+  width: auto;
+}
+
+.date-attandance span,
+.date-attandance b {
+  color: white !important;
+}
+
+.date-attandance span .ico {
+  width: 10px !important;
+  text-align: center;
+}
+
+.header-bg {
+  background-color: #0c386b !important;
+}
+
+.header-bg div {
+  color: white !important;
+}

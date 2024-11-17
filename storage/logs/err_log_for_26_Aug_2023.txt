@@ -1,0 +1,352 @@
+[26-Aug-2023 11:27:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[26-Aug-2023 11:28:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\app\logout.php on line 5
+[26-Aug-2023 11:43:34 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\app\logout.php on line 5
+[26-Aug-2023 11:53:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\app\logout.php on line 5
+[26-Aug-2023 12:23:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[26-Aug-2023 12:23:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\app\logout.php on line 5
+[26-Aug-2023 12:34:35 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:34:35 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:34:35 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:34:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:34:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:40:56 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:40:56 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:40:56 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:40:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:40:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:41:40 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:41:40 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:41:40 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:41:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:41:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:43:35 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:43:35 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:43:35 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:43:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:43:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:46:08 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:46:08 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:46:08 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:46:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:46:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:47:05 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:05 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:05 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:47:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:47:24 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:24 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:24 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:47:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:47:41 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:41 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:41 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:47:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:47:57 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:57 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:57 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:47:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:47:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:48:19 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:48:19 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:48:19 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:48:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:48:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:48:33 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:48:33 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:48:33 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:48:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:48:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:48:46 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:48:46 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:48:46 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:48:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:48:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:50:16 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:50:16 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:50:16 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:50:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:50:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:51:49 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:51:49 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:51:49 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:51:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:51:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:52:33 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:52:33 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:52:33 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:52:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:52:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:53:06 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:53:06 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:53:06 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:53:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:53:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:53:30 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:53:30 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:53:30 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:53:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:53:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:54:47 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:54:47 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:54:47 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:54:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:54:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:54:59 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:54:59 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:54:59 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 12:54:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:54:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 12:55:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[26-Aug-2023 13:14:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:14:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:15:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:15:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:18:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:18:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:20:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:20:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:20:20 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:20:20 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:20:20 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:20:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:20:20 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:25:37 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:25:37 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:25:37 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:25:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:25:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:26:39 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:26:39 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:26:39 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:26:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:26:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:28:23 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:28:23 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:28:23 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:28:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:28:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:28:47 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:28:47 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:28:47 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:28:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:28:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:33:46 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:33:46 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:33:46 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:33:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:33:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:34:48 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:34:48 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:34:48 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:34:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:34:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:35:26 Asia/Calcutta] PHP Warning:  Undefined array key -50 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:35:26 Asia/Calcutta] PHP Warning:  Undefined array key -3 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:35:26 Asia/Calcutta] PHP Warning:  Undefined array key -1 in C:\xampp\htdocs\apna-real-estate\require\module\payments.php on line 65
+[26-Aug-2023 13:35:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:35:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:36:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:36:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 13:41:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 13:41:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 13:41:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 13:41:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 13:42:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\app\logout.php on line 5
+[26-Aug-2023 13:46:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 13:46:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 13:46:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 13:46:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 13:47:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 13:47:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 13:47:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 13:47:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 14:05:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 14:05:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 14:05:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 14:05:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 14:06:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 14:06:18 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 14:06:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 14:06:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 14:14:59 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 171
+[26-Aug-2023 14:17:46 Asia/Calcutta] PHP Warning:  Undefined variable $Allowance in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 188
+[26-Aug-2023 14:17:46 Asia/Calcutta] PHP Warning:  Attempt to read property "pay_allowance_amount" on null in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 188
+[26-Aug-2023 14:17:46 Asia/Calcutta] PHP Warning:  Undefined variable $All in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 194
+[26-Aug-2023 14:17:46 Asia/Calcutta] PHP Warning:  Attempt to read property "payroll_allowance_for_emps_id" on null in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 194
+[26-Aug-2023 14:17:46 Asia/Calcutta] PHP Warning:  Undefined variable $All in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 196
+[26-Aug-2023 14:17:46 Asia/Calcutta] PHP Warning:  Attempt to read property "payroll_allowance_for_users_type" on null in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 196
+[26-Aug-2023 14:17:46 Asia/Calcutta] PHP Warning:  Undefined variable $All in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 198
+[26-Aug-2023 14:17:46 Asia/Calcutta] PHP Warning:  Attempt to read property "payroll_allowance_for_users_effective_date" on null in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 198
+[26-Aug-2023 14:17:46 Asia/Calcutta] PHP Warning:  Undefined variable $All in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 200
+[26-Aug-2023 14:17:46 Asia/Calcutta] PHP Warning:  Attempt to read property "payroll_allowance_for_users_notes" on null in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 200
+[26-Aug-2023 14:18:57 Asia/Calcutta] PHP Warning:  Undefined variable $All in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 189
+[26-Aug-2023 14:18:57 Asia/Calcutta] PHP Warning:  Attempt to read property "payroll_allowance_for_users_type" on null in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 189
+[26-Aug-2023 14:18:57 Asia/Calcutta] PHP Warning:  Undefined variable $Allowance in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 191
+[26-Aug-2023 14:18:57 Asia/Calcutta] PHP Warning:  Attempt to read property "pay_allowance_amount" on null in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 191
+[26-Aug-2023 14:19:12 Asia/Calcutta] PHP Warning:  Undefined variable $Allowance in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 191
+[26-Aug-2023 14:19:12 Asia/Calcutta] PHP Warning:  Attempt to read property "pay_allowance_amount" on null in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\receipt.php on line 191
+[26-Aug-2023 15:41:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\app\logout.php on line 5
+[26-Aug-2023 15:48:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 15:48:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 15:48:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 15:48:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 15:48:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 15:48:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 15:48:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 15:48:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 15:49:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 15:49:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 15:49:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[26-Aug-2023 15:49:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[26-Aug-2023 15:53:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 15:53:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 15:54:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 15:54:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 15:56:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 15:56:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 15:58:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 15:58:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 16:10:31 Asia/Calcutta] PHP Warning:  Undefined variable $TOTAL_RECEIVABLE in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 51
+[26-Aug-2023 16:10:31 Asia/Calcutta] PHP Warning:  Undefined variable $TOTAL_PAID in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 57
+[26-Aug-2023 16:10:31 Asia/Calcutta] PHP Warning:  Undefined variable $TOTAL_BOOKING_AMOUNT in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 59
+[26-Aug-2023 16:10:31 Asia/Calcutta] PHP Warning:  Undefined variable $TOTAL_BALANCE in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 62
+[26-Aug-2023 16:22:44 Asia/Calcutta] PHP Warning:  Undefined variable $SerialNo in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 90
+[26-Aug-2023 16:22:44 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php:110
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php(110): array_push(NULL, Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 110
+[26-Aug-2023 16:23:03 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php:112
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php(112): array_push(NULL, Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 112
+[26-Aug-2023 16:23:26 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php:112
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php(112): array_push(NULL, Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 112
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:35:19 Asia/Calcutta] PHP Warning:  Undefined variable $Type in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php on line 126
+[26-Aug-2023 16:47:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 16:47:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:02:06 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pay_deduction_name' in 'where clause' in C:\xampp\htdocs\apna-real-estate\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\apna-real-estate\require\module\crud.php(310): SELECT('SELECT * FROM c...')
+#2 C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php(96): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\require\module\crud.php on line 114
+[26-Aug-2023 17:03:41 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pay_deduction_name' in 'where clause' in C:\xampp\htdocs\apna-real-estate\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 C:\xampp\htdocs\apna-real-estate\require\module\crud.php(310): SELECT('SELECT * FROM c...')
+#2 C:\xampp\htdocs\apna-real-estate\app\hr\payroll\reports\payroll_report.php(96): _DB_COMMAND_('SELECT * FROM c...', true)
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\require\module\crud.php on line 114
+[26-Aug-2023 17:05:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:05:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:07:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:07:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:07:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:07:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:07:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:07:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:08:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:08:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:09:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:09:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:13:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:13:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:13:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:13:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:13:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:13:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:14:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:14:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:14:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:14:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:14:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:14:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:14:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:14:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:15:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:15:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:15:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:15:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:18:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:18:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:20:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 17:20:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[26-Aug-2023 21:30:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[26-Aug-2023 21:47:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15

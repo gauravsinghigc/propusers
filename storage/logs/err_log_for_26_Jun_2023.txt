@@ -1,0 +1,36 @@
+[26-Jun-2023 11:42:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[26-Jun-2023 12:44:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[26-Jun-2023 12:57:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[26-Jun-2023 13:21:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\roofnassets\app\logout.php on line 5
+[26-Jun-2023 13:22:40 Asia/Calcutta] PHP Warning:  Undefined variable $Sql in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 131
+[26-Jun-2023 13:22:40 Asia/Calcutta] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xampp\htdocs\roofnassets\require\module\crud.php:49
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(49): mysqli_query(Object(mysqli), '')
+#1 C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php(131): CHECK(NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 49
+[26-Jun-2023 14:48:24 Asia/Calcutta] PHP Warning:  Undefined array key "check_out_time_status" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[26-Jun-2023 17:03:52 Asia/Calcutta] PHP Warning:  Undefined array key "check_in_status" in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 26
+[26-Jun-2023 17:39:47 Asia/Calcutta] PHP Warning:  Undefined variable $month_number in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 184
+[26-Jun-2023 23:51:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[26-Jun-2023 23:58:18 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mktime(): Argument #4 ($month) must be of type ?int, string given in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php:187
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php(187): mktime(0, 0, 0, '2023-02', 1)
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 187

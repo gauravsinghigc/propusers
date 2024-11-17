@@ -1,0 +1,15 @@
+[05-Apr-2024 13:31:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:14
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 14
+[05-Apr-2024 14:21:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:14
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 14
+[05-Apr-2024 16:13:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:14
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 14

@@ -1,0 +1,2 @@
+[01-Jan-2024 20:18:11 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 135
+[01-Jan-2024 20:18:11 Asia/Calcutta] PHP Warning:  Undefined variable $VisitorOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 135

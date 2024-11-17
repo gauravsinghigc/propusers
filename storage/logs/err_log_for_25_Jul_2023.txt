@@ -1,0 +1,5 @@
+[25-Jul-2023 13:10:08 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonCreatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[25-Jul-2023 13:10:08 Asia/Calcutta] PHP Warning:  Undefined array key "LeadPersonLastUpdatedAt" in C:\xampp\htdocs\roofnassets\require\module\request.php on line 95
+[25-Jul-2023 13:36:55 Asia/Calcutta] PHP Warning:  Undefined variable $timezone in C:\xampp\htdocs\roofnassets\require\module\formate.php on line 29
+[25-Jul-2023 13:36:55 Asia/Calcutta] PHP Warning:  Undefined variable $timezone in C:\xampp\htdocs\roofnassets\require\module\formate.php on line 30
+[25-Jul-2023 13:36:55 Asia/Calcutta] PHP Warning:  Undefined variable $diff_minutes in C:\xampp\htdocs\roofnassets\require\module\formate.php on line 44

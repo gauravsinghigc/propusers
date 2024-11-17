@@ -1,0 +1,17 @@
+[22-Apr-2024 10:47:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 18
+[22-Apr-2024 14:12:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 18
+[22-Apr-2024 18:24:28 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\propusers\include\forms): Failed to open stream: Permission denied in C:\xampp\htdocs\propusers\app\rec\delivery\index.php on line 320
+[22-Apr-2024 18:24:28 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/forms/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\propusers\app\rec\delivery\index.php on line 320
+[22-Apr-2024 19:07:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:18
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 18

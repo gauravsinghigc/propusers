@@ -1,0 +1,1290 @@
+[15-Sep-2023 05:31:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 05:57:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 07:37:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 07:37:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 07:37:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 08:48:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 09:23:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 09:30:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 09:30:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:30:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:30:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:30:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:36:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/transfer/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 09:41:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 09:46:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 09:46:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:46:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:46:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:47:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:47:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:47:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:50:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 09:52:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:53:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:53:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:53:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:54:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 09:59:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:00:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:01:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:04:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:06:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:07:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:11:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:12:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:12:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:12:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:13:21 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 10:13:25 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 10:15:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:15:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:21:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:24:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:26:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:27:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:37
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 37
+[15-Sep-2023 10:30:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:40:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:51:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/transfer/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 10:58:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 11:09:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:37
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 37
+[15-Sep-2023 11:40:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 11:41:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 11:53:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 11:57:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 11:58:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 12:03:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:03:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:06:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:15:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:15:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:15:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:16:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:17:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:17:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:17:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:17:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:18:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:18:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:18:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:19:15 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:19:25 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:19:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:19:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:20:10 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:20:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:20:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:20:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:21:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:21:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:21:45 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:21:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:21:54 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:21:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:22:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 12:25:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 12:30:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/LeadsController.php:264
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/LeadsController.php on line 264
+[15-Sep-2023 12:41:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 12:41:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 12:42:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 12:47:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 12:50:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 13:00:36 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:36 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:37 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:38 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:39 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:41 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:41 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:42 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:52 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:52 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:53 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:53 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:53 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:53 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:54 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:54 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:55 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:00:55 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:06 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:06 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:15 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:15 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:15 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:26 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:26 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:27 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:27 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:27 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:28 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:28 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:38 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:45 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 13:01:45 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:46 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:46 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:46 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:47 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:47 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:58 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:58 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:58 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:01:59 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:09 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:09 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:09 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:20 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:21 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:21 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:25 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:26 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:26 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:27 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:27 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:27 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:32 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:32 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:32 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:33 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:33 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:02:34 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AutoEmailSendController.php(30): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 13:06:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 13:07:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 13:43:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/ods/index.php(34): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 13:44:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 13:44:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 13:44:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:04:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:14:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 14:19:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:19:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:20:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:20:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:20:42 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:21:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:22:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:22:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:55 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 14:22:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:23:49 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in /home/u694216744/domains/roofnassets.com/public_html/include/forms/VisitorUpdatePopWindow.php on line 60
+[15-Sep-2023 14:24:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:24:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:25:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:25:30 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:25:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:25:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:25:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:26:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:26:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:26:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:26:23 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:26:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:26:46 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:26:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 14:29:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 14:34:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 14:34:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:23:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:23:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:23:19 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:23:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:24:11 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:24:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:24:53 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:24:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Payroll-Details-For-Users.php on line 236
+[15-Sep-2023 15:24:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:37 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:38 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $AbsantsCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 443
+[15-Sep-2023 15:25:39 Asia/Calcutta] PHP Warning:  Undefined variable $LeavesCharges in /home/u694216744/domains/roofnassets.com/public_html/app/payroll/reports/index.php on line 447
+[15-Sep-2023 15:25:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:26:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:26:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:30:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:31:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/transfer/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:32:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:32:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:33:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:33:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:34:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/transfer/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:34:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:35:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:36:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:37:00 Asia/Calcutta] PHP Warning:  Undefined variable $UserId in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 52
+[15-Sep-2023 15:37:00 Asia/Calcutta] PHP Warning:  Undefined variable $FetchUsers in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 55
+[15-Sep-2023 15:37:00 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 55
+[15-Sep-2023 15:38:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 15:41:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/details/index.php(54): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:43:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 15:52:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[15-Sep-2023 15:56:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 16:20:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php:4
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/pageHeader.php on line 4
+[15-Sep-2023 16:23:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 16:32:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 16:50:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 16:50:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:50:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:50:43 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:50:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:50:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:50:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:50:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:50:51 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/ODRequestController.php(160): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 16:51:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:32 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/ODRequestController.php(160): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 16:51:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:51 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:51:58 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/ODRequestController.php(160): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 16:52:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:52:02 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:52:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:52:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:52:13 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/ODRequestController.php(160): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 16:52:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:52:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:52:17 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:52:25 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/ODRequestController.php(160): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 16:52:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:52:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:52:34 Asia/Calcutta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To): not available in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php:1094
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php(1059): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/Mail.php(37): PHPMailer\PHPMailer\PHPMailer->addReplyTo()
+#2 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/ODRequestController.php(160): SENDMAILS()
+#3 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include('/home/u69421674...')
+#4 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/MAIL_Modules/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1094
+[15-Sep-2023 16:52:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:52:57 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:53:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:53:14 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:53:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:53:37 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:53:52 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:53:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:54:21 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:55:34 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:55:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:56:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:56:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 16:56:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$OdLocationDetails in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-OD-Request.php on line 51
+[15-Sep-2023 17:17:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 17:24:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 17:32:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 17:33:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 17:49:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 17:50:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 17:56:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 18:30:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AttandanceController.php:147
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleHandler.php(10): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/handler/ModuleController/AttandanceController.php on line 147
+[15-Sep-2023 18:34:05 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 18:37:45 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 18:39:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 18:39:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 18:40:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 18:41:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 18:43:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 18:44:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 18:44:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 18:46:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 18:47:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 18:47:43 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 18:47:43 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 18:49:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 19:00:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 19:05:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 19:17:51 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 6
+[15-Sep-2023 21:24:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15
+[15-Sep-2023 21:24:59 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in /home/u694216744/domains/roofnassets.com/public_html/include/forms/Update-Leave-Details.php on line 23
+[15-Sep-2023 22:41:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:15
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 15

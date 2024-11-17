@@ -1,0 +1,712 @@
+[17-Oct-2023 02:10:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 04:25:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 08:13:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 09:07:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 09:36:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 09:38:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 09:39:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 09:48:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 09:55:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 09:58:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:05:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:06:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:08:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:09:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:09:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:10:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:11:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:12:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:13:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:13:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:17:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:22:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:27:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:31:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:32:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:35:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:38:17 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 10:38:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:39:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:40:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:41:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:48:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:53:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:56:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 10:59:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 11:00:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 11:01:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 11:01:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 11:01:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 11:01:48 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 11:01:48 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 11:01:48 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 11:01:48 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 11:04:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 11:05:01 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 11:05:01 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 11:05:01 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 11:05:01 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 11:09:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 11:11:20 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 11:11:20 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 11:11:20 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 11:11:20 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 11:13:59 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 11:13:59 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 11:13:59 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 11:13:59 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 11:36:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 11:36:49 Asia/Calcutta] PHP Warning:  Undefined variable $UserId in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 52
+[17-Oct-2023 11:36:49 Asia/Calcutta] PHP Warning:  Undefined variable $FetchUsers in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 55
+[17-Oct-2023 11:36:49 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/u694216744/domains/roofnassets.com/public_html/handler/AuthController/AuthController.php on line 55
+[17-Oct-2023 11:47:54 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 11:47:54 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 11:47:54 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 11:47:54 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:00:25 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:00:25 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:00:25 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:00:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:02:45 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:02:45 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:02:45 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:02:45 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:05:00 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:05:00 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:05:00 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:05:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:05:07 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:05:07 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:05:07 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:05:07 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:07:18 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:07:18 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:07:18 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:07:18 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:10:44 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:10:44 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:10:44 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:10:44 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:14:02 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:14:02 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:14:02 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:14:02 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:25:10 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:25:10 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:25:10 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:25:10 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:38:39 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:38:39 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:38:39 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:38:39 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:41:12 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:41:12 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:41:12 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:41:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:43:36 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:43:36 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:43:36 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:43:36 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:47:14 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:47:14 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:47:14 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:47:14 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:49:13 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:49:13 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:49:13 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:49:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:53:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:54:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 12:55:21 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:55:21 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:55:21 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:55:21 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 12:59:19 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 12:59:19 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 12:59:19 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 12:59:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 13:30:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 15:44:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 16:21:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 17:06:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 17:40:40 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 17:40:40 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 17:40:40 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 17:40:40 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 17:52:11 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 17:52:11 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 17:52:11 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 17:52:11 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 17:54:41 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 17:54:41 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 17:54:41 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 17:54:41 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 17:58:51 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 17:58:51 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 17:58:51 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 17:58:51 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 18:06:13 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 18:06:13 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 18:06:13 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 18:06:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 18:17:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:19:49 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 18:19:49 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 18:19:49 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 18:19:49 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 18:22:42 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 18:22:42 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 18:22:42 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 18:22:42 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 18:23:55 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 18:23:55 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 18:23:55 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 18:23:55 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 18:23:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:28:10 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 18:28:10 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 18:28:10 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 18:28:10 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 18:28:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:30:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:31:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:32:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:33:12 Asia/Calcutta] PHP Warning:  Undefined array key "PAGE_SQL" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 7
+[17-Oct-2023 18:33:12 Asia/Calcutta] PHP Warning:  Undefined array key "start" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 8
+[17-Oct-2023 18:33:12 Asia/Calcutta] PHP Warning:  Undefined array key "listcounts" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php on line 9
+[17-Oct-2023 18:33:12 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'limit ,' at line 1 in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php:12
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(12): mysqli_query()
+#1 /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php(42): SELECT()
+#2 /home/u694216744/domains/roofnassets.com/public_html/app/leads/FetchAllLeads.php(11): _DB_COMMAND_()
+#3 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/acm/SysModules/CRUD_Modules/Select.php on line 12
+[17-Oct-2023 18:37:49 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 18:39:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:40:31 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 18:40:41 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 18:41:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:42:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:42:44 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 18:43:06 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 18:43:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:43:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/policies/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:44:32 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 18:46:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/RequestHeader.php:62
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/leads/index.php(14): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/leads/sections/RequestHeader.php on line 62
+[17-Oct-2023 18:47:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 18:52:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:52:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:53:38 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 18:56:19 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 18:56:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[17-Oct-2023 18:56:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 18:58:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 19:10:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 19:11:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 19:11:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 19:11:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 19:11:41 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 19:12:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[17-Oct-2023 19:12:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 19:13:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 19:27:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 19:29:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 19:29:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[17-Oct-2023 19:29:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[17-Oct-2023 19:29:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[17-Oct-2023 19:29:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[17-Oct-2023 19:29:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 19:30:36 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 19:38:41 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 20:02:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[17-Oct-2023 20:03:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 20:50:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/index.php(33): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 20:53:50 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 20:57:18 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4
+[17-Oct-2023 20:59:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/app/info/out/index.php on line 11
+[17-Oct-2023 23:14:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 23:14:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php:19
+Stack trace:
+#0 /home/u694216744/domains/roofnassets.com/public_html/app/users/add.php(50): include()
+#1 {main}
+  thrown in /home/u694216744/domains/roofnassets.com/public_html/include/app/Header.php on line 19
+[17-Oct-2023 23:18:45 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u694216744/domains/roofnassets.com/public_html/auth/logout/index.php on line 4

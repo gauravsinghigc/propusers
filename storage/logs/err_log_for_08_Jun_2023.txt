@@ -1,0 +1,77 @@
+[08-Jun-2023 15:42:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(34): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[08-Jun-2023 15:42:32 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\roofnassets\app\leads\index.php on line 182
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:43:27 Asia/Calcutta] PHP Warning:  Undefined array key "LeadMainId" in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 267
+[08-Jun-2023 15:57:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:57:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:57:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:57:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:57:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:57:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:57:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:57:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:57:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:57:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 15:59:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$VisitOutTime in C:\xampp\htdocs\roofnassets\include\forms\VisitorUpdatePopWindow.php on line 60
+[08-Jun-2023 16:22:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[08-Jun-2023 16:22:48 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26

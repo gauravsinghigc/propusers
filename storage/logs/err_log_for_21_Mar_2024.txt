@@ -1,0 +1,21 @@
+[21-Mar-2024 14:24:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:14
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 14
+[21-Mar-2024 15:31:39 Asia/Calcutta] PHP Warning:  Undefined array key "CurrentFile" in C:\xampp\htdocs\propusers\handler\SystemController\ConfigController.php on line 127
+[21-Mar-2024 15:33:00 Asia/Calcutta] PHP Warning:  Undefined array key "CurrentFile" in C:\xampp\htdocs\propusers\handler\SystemController\ConfigController.php on line 154
+[21-Mar-2024 15:33:09 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\propusers\auth\logout\index.php on line 4
+[21-Mar-2024 15:45:49 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\propusers\auth\logout\index.php on line 4
+[21-Mar-2024 15:49:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:14
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 14
+[21-Mar-2024 16:05:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\propusers\include\app\Header.php:14
+Stack trace:
+#0 C:\xampp\htdocs\propusers\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\propusers\include\app\Header.php on line 14
+[21-Mar-2024 16:12:34 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\propusers\auth\reset/../include/auth/login-footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\propusers\auth\reset\index.php on line 56
+[21-Mar-2024 16:12:34 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\propusers\auth\reset/../include/auth/login-footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\propusers\auth\reset\index.php on line 56

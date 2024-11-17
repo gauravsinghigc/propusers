@@ -1,0 +1,41 @@
+[31-Jul-2023 10:47:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 10:47:58 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 10:48:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserLeaveFrom" in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 27
+[31-Jul-2023 10:48:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserLeaveTo" in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 27
+[31-Jul-2023 10:48:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 10:48:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 10:48:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 16
+[31-Jul-2023 10:48:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 10:48:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 10:49:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\Header.php on line 15
+[31-Jul-2023 10:49:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 16
+[31-Jul-2023 10:49:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 10:49:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 10:49:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 16
+[31-Jul-2023 10:49:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 10:49:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 10:52:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 16
+[31-Jul-2023 10:52:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 10:52:32 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 10:55:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 16
+[31-Jul-2023 10:55:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 10:55:56 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 10:57:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 10:57:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 10:57:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 16
+[31-Jul-2023 10:57:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 10:57:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 12:23:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 12:23:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 12:23:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 16
+[31-Jul-2023 12:23:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 12:23:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 13:06:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 13:06:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26
+[31-Jul-2023 13:06:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveType in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 16
+[31-Jul-2023 13:06:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 21
+[31-Jul-2023 13:06:09 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\roofnassets\include\forms\Update-Leave-Details.php on line 26

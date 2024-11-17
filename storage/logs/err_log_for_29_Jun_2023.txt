@@ -1,0 +1,113 @@
+[29-Jun-2023 11:04:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[29-Jun-2023 11:11:25 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'rootandassets.od_forms' doesn't exist in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT OdFormId...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(310): SELECT('SELECT OdFormId...')
+#2 C:\xampp\htdocs\roofnassets\require\module\autoload.php(7): _DB_COMMAND_('SELECT OdFormId...', true)
+#3 C:\xampp\htdocs\roofnassets\require\Modules.php(50): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\roofnassets\app\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[29-Jun-2023 13:29:12 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:29:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:29:38 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:39:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:39:35 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:41:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:41:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:44:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:44:47 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:45:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:45:03 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:45:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:45:27 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:45:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 13:45:39 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:39:36 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:42:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:42:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:42:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:42:08 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:42:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:42:28 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:42:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:42:44 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:42:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:42:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:43:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:43:40 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:43:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:43:50 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:44:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 14:44:05 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:40:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:40:41 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:40:46 Asia/Calcutta] PHP Warning:  Undefined variable $payrolls_type in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 251
+[29-Jun-2023 16:40:46 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where payrolls_main_user_id='21' ORDER BY payrolls_id DESC' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM p...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT * FROM p...')
+#2 C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php(286): FETCH('SELECT * FROM p...', 'payrolls_id')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[29-Jun-2023 16:41:19 Asia/Calcutta] PHP Warning:  Undefined variable $payrolls_from_date in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 223
+[29-Jun-2023 16:41:19 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where payrolls_main_user_id='21' ORDER BY payrolls_id DESC' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM p...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT * FROM p...')
+#2 C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php(287): FETCH('SELECT * FROM p...', 'payrolls_id')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[29-Jun-2023 16:42:13 Asia/Calcutta] PHP Warning:  Undefined variable $payrolls_from_date in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 223
+[29-Jun-2023 16:42:13 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where payrolls_main_user_id='21' ORDER BY payrolls_id DESC' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM p...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT * FROM p...')
+#2 C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php(287): FETCH('SELECT * FROM p...', 'payrolls_id')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[29-Jun-2023 16:43:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:43:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:43:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:43:16 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:48:46 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 226
+[29-Jun-2023 16:48:46 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 236
+[29-Jun-2023 16:48:46 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 237
+[29-Jun-2023 16:48:46 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 238
+[29-Jun-2023 16:48:46 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 239
+[29-Jun-2023 16:48:46 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 240
+[29-Jun-2023 16:48:46 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 241
+[29-Jun-2023 16:49:28 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 226
+[29-Jun-2023 16:49:28 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 236
+[29-Jun-2023 16:49:28 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 237
+[29-Jun-2023 16:49:28 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 238
+[29-Jun-2023 16:49:28 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 239
+[29-Jun-2023 16:49:28 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 240
+[29-Jun-2023 16:49:28 Asia/Calcutta] PHP Warning:  Undefined variable $RequestingUserId in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 241
+[29-Jun-2023 16:51:44 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where payrolls_main_user_id='21' ORDER BY payrolls_id DESC' at line 1 in C:\xampp\htdocs\roofnassets\require\module\crud.php:114
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(114): mysqli_query(Object(mysqli), 'SELECT * FROM p...')
+#1 C:\xampp\htdocs\roofnassets\require\module\crud.php(261): SELECT('SELECT * FROM p...')
+#2 C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php(287): FETCH('SELECT * FROM p...', 'payrolls_id')
+#3 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 114
+[29-Jun-2023 16:52:02 Asia/Calcutta] PHP Warning:  Undefined variable $AllowanceAmount in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 352
+[29-Jun-2023 16:54:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:54:04 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:55:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:55:07 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:56:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:56:22 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:56:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:56:26 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:57:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:57:24 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:57:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:57:29 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:57:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224
+[29-Jun-2023 16:57:33 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\roofnassets\include\forms\Update-Payroll-Details-For-Users.php on line 224

@@ -1,0 +1,57 @@
+[24-Jun-2023 11:00:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[24-Jun-2023 14:06:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:17 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:00:18 Asia/Calcutta] PHP Warning:  Undefined variable $Checked in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 91
+[24-Jun-2023 16:23:33 Asia/Calcutta] PHP Warning:  Undefined variable $return in C:\xampp\htdocs\roofnassets\app\hr\attandance\months.php on line 194
+[24-Jun-2023 16:49:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserType" in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php:37
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\app\leads\index.php(13): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\roofnassets\app\leads\sections\pageHeader.php on line 37

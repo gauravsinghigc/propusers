@@ -1,0 +1,28 @@
+[28-Aug-2023 12:49:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[28-Aug-2023 12:49:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[28-Aug-2023 12:49:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[28-Aug-2023 12:49:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[28-Aug-2023 12:53:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[28-Aug-2023 12:53:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[28-Aug-2023 12:53:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[28-Aug-2023 12:53:31 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[28-Aug-2023 12:56:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[28-Aug-2023 12:56:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[28-Aug-2023 12:56:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[28-Aug-2023 12:56:06 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[28-Aug-2023 12:56:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[28-Aug-2023 12:56:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[28-Aug-2023 12:56:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[28-Aug-2023 12:56:55 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[28-Aug-2023 12:57:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[28-Aug-2023 12:57:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[28-Aug-2023 12:57:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveFrom in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 21
+[28-Aug-2023 12:57:00 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$UserLeaveTo in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Leave-Details.php on line 26
+[28-Aug-2023 12:59:07 Asia/Calcutta] PHP Warning:  Undefined array key "UserLeaveFrom" in C:\xampp\htdocs\apna-real-estate\controller\ModuleHandler.php on line 162
+[28-Aug-2023 12:59:07 Asia/Calcutta] PHP Warning:  Undefined array key "UserLeaveTo" in C:\xampp\htdocs\apna-real-estate\controller\ModuleHandler.php on line 162
+[28-Aug-2023 12:59:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserLeaveFrom" in C:\xampp\htdocs\apna-real-estate\controller\ModuleHandler.php on line 162
+[28-Aug-2023 12:59:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserLeaveTo" in C:\xampp\htdocs\apna-real-estate\controller\ModuleHandler.php on line 162
+[28-Aug-2023 13:51:48 Asia/Calcutta] PHP Warning:  Undefined array key "UserLeaveFrom" in C:\xampp\htdocs\apna-real-estate\controller\ModuleHandler.php on line 162
+[28-Aug-2023 13:51:48 Asia/Calcutta] PHP Warning:  Undefined array key "UserLeaveTo" in C:\xampp\htdocs\apna-real-estate\controller\ModuleHandler.php on line 162
+[28-Aug-2023 16:51:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236
+[28-Aug-2023 16:51:01 Asia/Calcutta] PHP Warning:  Undefined property: stdClass::$payroll_allowance_for_users_type in C:\xampp\htdocs\apna-real-estate\include\forms\Update-Payroll-Details-For-Users.php on line 236

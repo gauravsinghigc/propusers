@@ -1,0 +1,960 @@
+[30-Aug-2023 07:28:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[30-Aug-2023 07:30:37 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 07:30:37 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 07:30:37 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 07:30:37 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 07:30:37 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 07:32:44 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 07:32:44 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 07:32:44 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 07:32:44 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 07:32:44 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 07:35:58 Asia/Calcutta] PHP Warning:  Undefined array key "CurrentFile" in C:\xampp\htdocs\apna-real-estate\handler\SystemController\ConfigController.php on line 126
+[30-Aug-2023 08:00:59 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[30-Aug-2023 08:01:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[30-Aug-2023 08:01:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[30-Aug-2023 08:01:41 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[30-Aug-2023 08:01:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[30-Aug-2023 08:02:11 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(../../../include/common/send-lead-list.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../include/common/send-lead-list.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 268
+[30-Aug-2023 08:12:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GetUserDetails() in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php:300
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 300
+[30-Aug-2023 08:12:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GetUserDetails() in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php:300
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 300
+[30-Aug-2023 08:13:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function GetUserDetails() in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php:300
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 300
+[30-Aug-2023 08:13:56 Asia/Calcutta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GetUserDetails(), 1 passed in C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php on line 300 and exactly 2 expected in C:\xampp\htdocs\apna-real-estate\modules\UserModules.php:100
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\digital\transfer\index.php(300): GetUserDetails('1')
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\modules\UserModules.php on line 100
+[30-Aug-2023 08:16:59 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:16:59 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:16:59 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:16:59 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:16:59 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:16:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\LeadsController.php:302
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\handler\ModuleHandler.php(9): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\LeadsController.php on line 302
+[30-Aug-2023 08:17:22 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:17:22 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:17:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:17:22 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:17:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:17:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\LeadsController.php:302
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\handler\ModuleHandler.php(9): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\LeadsController.php on line 302
+[30-Aug-2023 08:18:43 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[30-Aug-2023 08:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:19:29 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:19:29 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:19:29 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:19:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\LeadsController.php:302
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\handler\ModuleHandler.php(9): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\LeadsController.php on line 302
+[30-Aug-2023 08:20:31 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:20:31 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:20:31 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:20:31 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:20:31 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:20:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\LeadsController.php:312
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\handler\ModuleHandler.php(9): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\LeadsController.php on line 312
+[30-Aug-2023 08:48:06 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:48:06 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:48:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:48:06 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:48:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:48:11 Asia/Calcutta] PHP Warning:  Undefined variable $Response in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:48:11 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:48:11 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:48:11 Asia/Calcutta] PHP Warning:  Undefined variable $Msg in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:48:11 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\CustomerController.php on line 97
+[30-Aug-2023 08:49:40 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:51:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 55
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadsId" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 57
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Undefined variable $data in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:52:06 Asia/Calcutta] PHP Warning:  Attempt to read property "LeadPersonManagedBy" on null in C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php on line 68
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 08:53:25 Asia/Calcutta] PHP Warning:  Undefined array key "ProjectName" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 32
+[30-Aug-2023 09:01:04 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserFullName' in 'field list' in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php:12
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(12): mysqli_query(Object(mysqli), 'SELECT UserFull...')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php(26): SELECT('SELECT UserFull...')
+#2 C:\xampp\htdocs\apna-real-estate\app\leads\export\csv.php(68): FETCH('SELECT UserFull...', 'UserFullName')
+#3 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Select.php on line 12
+[30-Aug-2023 09:57:47 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apna-real-estate\include\sidebar\side-menus/side-menus/admin-sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\include\sidebar\side-menus\side-bars.php on line 28
+[30-Aug-2023 09:57:47 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apna-real-estate\include\sidebar\side-menus/side-menus/admin-sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\include\sidebar\side-menus\side-bars.php on line 28
+[30-Aug-2023 10:05:22 Asia/Calcutta] PHP Warning:  Undefined variable $ConfigPgProvider in C:\xampp\htdocs\apna-real-estate\handler\SystemController\ConfigController.php on line 90
+[30-Aug-2023 10:05:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\handler\SystemController\ConfigController.php:274
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\handler\SystemController\ConfigController.php on line 274
+[30-Aug-2023 11:27:14 Asia/Calcutta] PHP Warning:  include(../../../assets/header_files.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\index.php on line 32
+[30-Aug-2023 11:27:14 Asia/Calcutta] PHP Warning:  include(): Failed opening '../../../assets/header_files.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\app\hr\payroll\index.php on line 32
+[30-Aug-2023 12:41:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "GENERATE_CALENDAR" in C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php:173
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php on line 173
+[30-Aug-2023 12:45:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CONFIG() in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\HTMLFunctions.php:291
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\HTMLFunctions.php(358): listingstartfrom('start')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(16): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 291
+[30-Aug-2023 12:46:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function CONFIG() in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\HTMLFunctions.php:291
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\HTMLFunctions.php(358): listingstartfrom('start')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(16): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\HTMLFunctions.php on line 291
+[30-Aug-2023 12:47:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function InputOptionsWithKey() in C:\xampp\htdocs\apna-real-estate\acm\SysModules\PHP_Modules\Calendar.php:58
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\PHP_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#1 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(29): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\PHP_Modules\Calendar.php on line 58
+[30-Aug-2023 12:52:06 Asia/Calcutta] PHP Fatal error:  Cannot redeclare CURRENCY_LIST() (previously declared in C:\xampp\htdocs\apna-real-estate\acm\SysModules\PHP_Modules\AllCurrencyTypes.php:2) in C:\xampp\htdocs\apna-real-estate\acm\SysModules\PHP_Modules\AllCurrencyTypes.php on line 2
+[30-Aug-2023 12:52:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "VALIDATOR_REQ" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\PHP_Modules\FormValidations.php:6
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\PHP_Modules\FormValidations.php(26): FormInputToken()
+#1 C:\xampp\htdocs\apna-real-estate\include\app\Attandance.php(48): FormPrimaryInputs(true)
+#2 C:\xampp\htdocs\apna-real-estate\include\app\Header.php(26): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(33): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\PHP_Modules\FormValidations.php on line 6
+[30-Aug-2023 12:53:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "GENERATE_CALENDAR" in C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php:173
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php on line 173
+[30-Aug-2023 12:54:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 12:54:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 12:56:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 12:56:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 12:56:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:00:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:01:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:02:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:02:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:04:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:04:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:05:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:06:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:06:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:07:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:07:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:07:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:08:22 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(58): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:08:34 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(58): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:08:41 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(58): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:08:55 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(58): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:09:15 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(58): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:09:46 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 60 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(60): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(117): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:10:03 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 60 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(60): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(117): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:10:31 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 60 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(60): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(117): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:10:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected variable "$months", expecting ":" in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 60
+[30-Aug-2023 13:11:24 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 60 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(60): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(119): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:12:54 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 25 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(25): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(119): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:15:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function InputOptionWithKeys() in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php:58
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#1 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58
+[30-Aug-2023 13:15:25 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(58): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:16:22 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(58): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:16:24 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(58): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:17:17 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(58): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(85): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:17:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "GENERATE_CALENDAR" in C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php:173
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php on line 173
+[30-Aug-2023 13:36:07 Asia/Calcutta] PHP Warning:  require(C:\xampp\htdocs\apna-real-estate\acm/SysModules/PHP_Modules/HTMLFunctions.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php on line 53
+[30-Aug-2023 13:36:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\apna-real-estate\acm/SysModules/PHP_Modules/HTMLFunctions.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php:53
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require()
+#1 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php on line 53
+[30-Aug-2023 13:36:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "GENERATE_CALENDAR" in C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php:173
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php on line 173
+[30-Aug-2023 13:36:53 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: InputOptionsWithKey(): Argument #2 ($default) must be of type ?array, string given, called in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php on line 58 and defined in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php:59
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(58): InputOptionsWithKey(Array, '8')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Calendar.php(115): OrganiseDateMonthYear()
+#2 C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php(54): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(3): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\HTML_Modules\Form.php on line 59
+[30-Aug-2023 13:37:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 13:38:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "AUTO_GENERATED_REF_NO" in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php:11
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\member\ods\index.php(184): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\forms\Add-OD-Request.php on line 11
+[30-Aug-2023 14:24:35 Asia/Calcutta] PHP Warning:  require(C:\xampp\htdocs\apna-real-estate\acm/SysModules/LEAD_Modules&lt;?php echo APP_URL;?&gt;/leads.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php on line 70
+[30-Aug-2023 14:24:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\apna-real-estate\acm/SysModules/LEAD_Modules<?php echo APP_URL;?>/leads.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php:70
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysFileAutoLoader.php(40): require()
+#1 C:\xampp\htdocs\apna-real-estate\app\index.php(3): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SystemFileProcessor.php on line 70

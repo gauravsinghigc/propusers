@@ -1,0 +1,78 @@
+[12-Sep-2023 14:57:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[12-Sep-2023 20:26:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[12-Sep-2023 20:34:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserFirstName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 20:34:15 Asia/Calcutta] PHP Warning:  Undefined array key "UserLastName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 20:34:15 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 205
+[12-Sep-2023 20:35:08 Asia/Calcutta] PHP Warning:  Undefined array key "UserFirstName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 20:35:08 Asia/Calcutta] PHP Warning:  Undefined array key "UserLastName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 20:35:08 Asia/Calcutta] PHP Warning:  foreach() argument must be of type array|object, string given in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 205
+[12-Sep-2023 20:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserFirstName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 20:41:56 Asia/Calcutta] PHP Warning:  Undefined array key "UserLastName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 20:44:05 Asia/Calcutta] PHP Warning:  Undefined array key "UserFirstName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 20:44:05 Asia/Calcutta] PHP Warning:  Undefined array key "UserLastName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 20:48:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserFirstName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 20:48:22 Asia/Calcutta] PHP Warning:  Undefined array key "UserLastName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 21:02:11 Asia/Calcutta] PHP Warning:  Undefined array key "UserFirstName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 21:02:11 Asia/Calcutta] PHP Warning:  Undefined array key "UserLastName" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 169
+[12-Sep-2023 21:02:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\apna-real-estate\auth\logout\index.php on line 6
+[12-Sep-2023 21:02:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\index.php(33): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15
+[12-Sep-2023 21:04:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php:39
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\include\sidebar\get-side-menus.php(25): include()
+#1 C:\xampp\htdocs\apna-real-estate\app\index.php(34): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 39
+[12-Sep-2023 21:04:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php:39
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\include\sidebar\get-side-menus.php(25): include()
+#1 C:\xampp\htdocs\apna-real-estate\app\index.php(34): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 39
+[12-Sep-2023 21:04:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php:39
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\include\sidebar\get-side-menus.php(25): include()
+#1 C:\xampp\htdocs\apna-real-estate\app\index.php(34): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 39
+[12-Sep-2023 21:04:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php:39
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\include\sidebar\get-side-menus.php(25): include()
+#1 C:\xampp\htdocs\apna-real-estate\app\index.php(34): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 39
+[12-Sep-2023 21:05:14 Asia/Calcutta] PHP Warning:  Undefined variable $SideBar in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 39
+[12-Sep-2023 21:05:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php:39
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\include\sidebar\get-side-menus.php(25): include()
+#1 C:\xampp\htdocs\apna-real-estate\app\index.php(34): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 39
+[12-Sep-2023 21:06:35 Asia/Calcutta] PHP Warning:  Undefined array key "CRM" in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 40
+[12-Sep-2023 21:06:35 Asia/Calcutta] PHP Warning:  include(C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\access-wise-sidebars): Failed to open stream: Permission denied in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 41
+[12-Sep-2023 21:06:35 Asia/Calcutta] PHP Warning:  include(): Failed opening 'C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars/access-wise-sidebars/' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\apna-real-estate\include\sidebar\sidebars\generate-sidebars.php on line 41
+[12-Sep-2023 21:26:26 Asia/Calcutta] PHP Warning:  Undefined array key "UserAddressUserId" in C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php on line 284
+[12-Sep-2023 21:26:26 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserAddressUserId' in 'where clause' in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Delete.php:10
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Delete.php(10): mysqli_query(Object(mysqli), 'DELETE from use...')
+#1 C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Delete.php(21): DELETE_SQL('DELETE from use...')
+#2 C:\xampp\htdocs\apna-real-estate\handler\ModuleController\UserController.php(287): DELETE_FROM('user_access', 'UserAddressUser...')
+#3 C:\xampp\htdocs\apna-real-estate\handler\ModuleHandler.php(10): include('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\acm\SysModules\CRUD_Modules\Delete.php on line 10
+[12-Sep-2023 21:39:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\apna-real-estate\include\app\Header.php:15
+Stack trace:
+#0 C:\xampp\htdocs\apna-real-estate\app\users\index.php(27): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\apna-real-estate\include\app\Header.php on line 15

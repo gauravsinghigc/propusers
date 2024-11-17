@@ -1,0 +1,6 @@
+[30-Jul-2023 21:48:03 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'LeadFollowSubStatus' in 'where clause' in C:\xampp\htdocs\roofnassets\require\module\crud.php:131
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\require\module\crud.php(131): mysqli_query(Object(mysqli), 'SELECT LeadFoll...')
+#1 C:\xampp\htdocs\roofnassets\app\teams\index.php(269): TOTAL('SELECT LeadFoll...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\require\module\crud.php on line 131

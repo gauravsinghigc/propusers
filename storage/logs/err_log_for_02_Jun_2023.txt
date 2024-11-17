@@ -1,0 +1,17 @@
+[02-Jun-2023 13:50:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Undefined constant "LOGIN_UserId" in C:\xampp\htdocs\roofnassets\include\app\attandance.php:5
+Stack trace:
+#0 C:\xampp\htdocs\roofnassets\include\app\Header.php(14): include()
+#1 C:\xampp\htdocs\roofnassets\app\index.php(34): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 5
+[02-Jun-2023 16:12:09 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[02-Jun-2023 16:12:09 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[02-Jun-2023 16:22:20 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[02-Jun-2023 16:22:20 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[02-Jun-2023 16:31:58 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[02-Jun-2023 16:31:58 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[02-Jun-2023 17:12:46 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[02-Jun-2023 17:12:46 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
+[02-Jun-2023 17:13:00 Asia/Calcutta] PHP Warning:  Undefined variable $CurrentDateTime in C:\xampp\htdocs\roofnassets\controller\ModuleHandler.php on line 124
+[02-Jun-2023 17:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLang in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 113
+[02-Jun-2023 17:13:04 Asia/Calcutta] PHP Warning:  Undefined variable $OfficeLat in C:\xampp\htdocs\roofnassets\include\app\attandance.php on line 114
